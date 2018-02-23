@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benefits on ieahts.org</title>
-    <link>/technologies/benefits/</link>
+    <link>/IEAHTS/technologies/benefits/</link>
     <description>Recent content in Benefits on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate>
     
-	<atom:link href="/technologies/benefits/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/IEAHTS/technologies/benefits/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Glossary</title>
-      <link>/technologies/benefits/glossary/</link>
+      <link>/IEAHTS/technologies/benefits/glossary/</link>
       <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
       
-      <guid>/technologies/benefits/glossary/</guid>
+      <guid>/IEAHTS/technologies/benefits/glossary/</guid>
       <description>1G
  First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
    2G
@@ -28,10 +28,10 @@
     
     <item>
       <title>Other Applications</title>
-      <link>/technologies/benefits/other-applications/</link>
+      <link>/IEAHTS/technologies/benefits/other-applications/</link>
       <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
       
-      <guid>/technologies/benefits/other-applications/</guid>
+      <guid>/IEAHTS/technologies/benefits/other-applications/</guid>
       <description>There are also many other notable superconductive application areas outside of electric power sector, such as medicine, communications, industry, scientific research, transportation, and defense. Several specific examples of these applications include high-field magnets, magnetic resonance imaging (MRI), nuclear magnetic resonance (NMR), magnetically levitated trains, and ship degaussing systems. These applications&amp;mdash;which today are often based on LTS&amp;mdash;demonstrate that superconductive technology can be used in a variety of applications in many sectors of the world economy.</description>
     </item>
     
