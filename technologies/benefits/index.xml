@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benefits on My New Hugo Site</title>
+    <link>http://example.org/technologies/benefits/</link>
+    <description>Recent content in Benefits on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/technologies/benefits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glossary</title>
+      <link>http://example.org/technologies/benefits/glossary/</link>
+      <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
+      
+      <guid>http://example.org/technologies/benefits/glossary/</guid>
+      <description>1G
+ First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
+   2G
+ Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
+   A/cm
+ Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
+   $/kAm</description>
+    </item>
+    
+    <item>
+      <title>Other Applications</title>
+      <link>http://example.org/technologies/benefits/other-applications/</link>
+      <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
+      
+      <guid>http://example.org/technologies/benefits/other-applications/</guid>
+      <description>There are also many other notable superconductive application areas outside of electric power sector, such as medicine, communications, industry, scientific research, transportation, and defense. Several specific examples of these applications include high-field magnets, magnetic resonance imaging (MRI), nuclear magnetic resonance (NMR), magnetically levitated trains, and ship degaussing systems. These applications&amp;mdash;which today are often based on LTS&amp;mdash;demonstrate that superconductive technology can be used in a variety of applications in many sectors of the world economy.</description>
+    </item>
+    
+  </channel>
+</rss>

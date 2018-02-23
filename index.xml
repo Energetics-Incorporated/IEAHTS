@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SuperConductivity on My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in SuperConductivity on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2018 23:49:34 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>http://example.org/links/</link>
+      <pubDate>Thu, 22 Feb 2018 23:49:34 -0500</pubDate>
+      
+      <guid>http://example.org/links/</guid>
+      <description>Conductor Manufacturers HTS conductor  American Superconductor Bruker Energy &amp;amp; Supercon Technologies 3-Cs Ltd 3G-HTS deutsche nanoschicht EVICO GmbH (offers NiW substrate) Fujikura Furukawa MetOx OXOLUTIA Shanghai Superconductor Technology Sumitomo Electric Industries SuperCon (LTS and Bi-2212 for MRI) Superconductor Technologies Inc. SuperOx SuperPower SuNAM Theva  MgB2 conductor  Columbus Superconductor Diboride Conductors HyperTech  Cryogenics  Air Liquide Aisen Seki Co. Ltd &amp;amp; Chubu Electric (cryocoolers, acoustic Stirling ) Chart Industries (Qdrive) CryoMech (cryo-coolers, GM) CryoZone (cryostats, cryogenic systems, gas fans &amp;amp; liquid pumps) Linde Mayekwa Mfg.</description>
+    </item>
+    
+    <item>
+      <title>HTS TCP Fosters Young Researchers in HTS</title>
+      <link>http://example.org/hts-tcp-fosters-young-researchers-in-hts/</link>
+      <pubDate>Thu, 22 Feb 2018 23:46:55 -0500</pubDate>
+      
+      <guid>http://example.org/hts-tcp-fosters-young-researchers-in-hts/</guid>
+      <description>Encouraging the next generation of scientists and engineers to become interested in superconductivity is&amp;nbsp;critical. Students and young professionals have the potential to develop new and innovative ideas to help the technology proceed along the pathway to commercialization. To this end, the HTS TCP has been hosting a competition to nurture young researchers in this topic area since 2014.
+On 17 November 2015, a Special Session at the International Symposium on Superconductivity held in Tokyo, Japan entitled Superconducting Applications and Future Energy Perspective.</description>
+    </item>
+    
+    <item>
+      <title>Collaboration With Other IEA TCPs</title>
+      <link>http://example.org/collaboration-with-other-iea-tcps/</link>
+      <pubDate>Thu, 22 Feb 2018 23:43:26 -0500</pubDate>
+      
+      <guid>http://example.org/collaboration-with-other-iea-tcps/</guid>
+      <description>The HTS TCP collaborates with several other TCPs such as the International Smart Grid Action Network.&amp;nbsp; Annex 5, the Smart Grid International Research Facility Network (SIRFN) is one group in particular that the HTS TCP connects with on a regular basis. SIRFN gives participating countries the ability to evaluate pre-competitive technologies and systems approaches in a wide range of smart grid implementation use cases and geographies using common testing procedures. The HTS TCP is also active in developing products for the Program of Work for Annex 6, Power T&amp;amp;D Systems.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Thu, 22 Feb 2018 23:23:45 -0500</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>&#34;Annual Report 2016: IEA Technology Collaboration Program on High Temperature Superconductivity,&#34; completed for the International Energy Agency HTS TCP (June 2017)
+&#34;IEA End Use Working Party Summary Document&#34;,&amp;nbsp;completed for the International Energy Agency&#39;s, End Use Working Party regarding policy messages and recommendations and achievements (February 2016)
+Y. Yamada, B. Marchionini, &#34;High Temperature Superconductivity, A Roadmap for the Electric Power Sector, 2015-2030&#34;,&amp;nbsp;completed for the International Energy Agency HTS TCP (October 2015)</description>
+    </item>
+    
+    <item>
+      <title>Power Sector Applications</title>
+      <link>http://example.org/technologies/power-sector-applications/</link>
+      <pubDate>Thu, 22 Feb 2018 23:18:53 -0500</pubDate>
+      
+      <guid>http://example.org/technologies/power-sector-applications/</guid>
+      <description>Cables There is more than 20 years of operating hour experience with cable projects worldwide. Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV. Nearly ten cable demonstration projects are under development; these include projects in the distribution voltage (10 kV&amp;mdash;66 kV) and transmission voltage (66 kV&amp;mdash;275 kV) range.</description>
+    </item>
+    
+    <item>
+      <title>Glossary</title>
+      <link>http://example.org/technologies/benefits/glossary/</link>
+      <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
+      
+      <guid>http://example.org/technologies/benefits/glossary/</guid>
+      <description>1G
+ First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
+   2G
+ Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
+   A/cm
+ Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
+   $/kAm</description>
+    </item>
+    
+    <item>
+      <title>Other Applications</title>
+      <link>http://example.org/technologies/benefits/other-applications/</link>
+      <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
+      
+      <guid>http://example.org/technologies/benefits/other-applications/</guid>
+      <description>There are also many other notable superconductive application areas outside of electric power sector, such as medicine, communications, industry, scientific research, transportation, and defense. Several specific examples of these applications include high-field magnets, magnetic resonance imaging (MRI), nuclear magnetic resonance (NMR), magnetically levitated trains, and ship degaussing systems. These applications&amp;mdash;which today are often based on LTS&amp;mdash;demonstrate that superconductive technology can be used in a variety of applications in many sectors of the world economy.</description>
+    </item>
+    
+    <item>
+      <title>Superconductivity Primer</title>
+      <link>http://example.org/superconductivity-primer/</link>
+      <pubDate>Thu, 22 Feb 2018 22:34:23 -0500</pubDate>
+      
+      <guid>http://example.org/superconductivity-primer/</guid>
+      <description>Superconductivity is a phenomenon that causes certain materials, at low temperatures, to lose all resistance to the flow of electricity. The lack of resistance enables a range of innovative technology applications. The temperature at which resistance ceases is referred to as the &amp;ldquo;transition temperature&amp;rdquo;, or critical temperature (Tc). Tc is usually measured in kelvin (K)&amp;mdash;0 K being absolute zero. HTS gets its name originally because it has a higher transition temperature (77 K, which can be achieved when using liquid nitrogen) than Low temperature superconductivity (LTS) (around 4.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Thu, 22 Feb 2018 21:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
+ </description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about-us/</link>
+      <pubDate>Thu, 22 Feb 2018 11:27:27 -0500</pubDate>
+      
+      <guid>http://example.org/about-us/</guid>
+      <description>Members of the Executive Committee include senior persons engaged in research, development and demonstration and persons who manage those efforts. Each institution chooses its representatives according to its own needs. Members of the Executive Committee take turns serving as host to the twice yearly Executive Committee Meeting. These meetings are the venue for face-to-face discussion. In addition, the host complements these discussions by arranging presentations from national experts and/or tours of whatever facilities the host deems appropriate.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://example.org/about-us/the-iea-tcp/</link>
+      <pubDate>Thu, 22 Feb 2018 11:27:27 -0500</pubDate>
+      
+      <guid>http://example.org/about-us/the-iea-tcp/</guid>
+      <description>Members of the Executive Committee include senior persons engaged in research, development and demonstration and persons who manage those efforts. Each institution chooses its representatives according to its own needs. Members of the Executive Committee take turns serving as host to the twice yearly Executive Committee Meeting. These meetings are the venue for face-to-face discussion. In addition, the host complements these discussions by arranging presentations from national experts and/or tours of whatever facilities the host deems appropriate.</description>
+    </item>
+    
+    <item>
+      <title>ExCo Contact Information</title>
+      <link>http://example.org/about-us/exco-contact-information/</link>
+      <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
+      
+      <guid>http://example.org/about-us/exco-contact-information/</guid>
+      <description>Canada    Dr. Julian Cave
+Chercheur
+Hydro Quebec, Institut de recherche
+Expertise-Chimie et materiaux
+Rez-de-chausee
+Hydro-Quebec
+1800 Boul Lionel-Boulet
+Varennes, Quebec,
+Canada J3X 1S1
+Phone: +1 450-652-8946
+Fax: +1 450-652-8334
+E-mail: cave.julian@ireq.ca
+ &amp;nbsp;   Finland     Dr. Risto Mikkonen
+Electrotechnical Department
+Tampere University of Technology
+P.O. Box 692
+FIN-33101 Tampere
+FINLAND
+Phone: +358 3 365 2007
+Fax: +358 3 365 2160</description>
+    </item>
+    
+    <item>
+      <title>Strategic Direction</title>
+      <link>http://example.org/about-us/strategic-direction/</link>
+      <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
+      
+      <guid>http://example.org/about-us/strategic-direction/</guid>
+      <description>The HTS TCP conducts outreach toward electric utilities, governments, the professional engineering community, and the RD&amp;amp;D community to communicate the potential benefits of HTS technology.&amp;nbsp; Examples of this outreach include:
+ Developing position papers and strategic documents such as roadmaps and technical reports Providing expertise that can inform the evaluations and assessments performed under the TCP Interacting with other related TCPs to leverage synergies and opportunities Disseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sector Address and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industry  The HTS TCP has developed a number of publications.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,353 @@
+/* 
+ * Deprecated DNN CSS class names will remain available for some time
+ * before being  permanently removed. Removal will occur according to
+ * the  following process:
+ *
+ * 1. Removal will only occur with a major (x.y) release, never
+ *    with a maintenance (x.y.z) release.
+ * 2. Removal will not occur less than six months after the release
+ *    when it was deprecated.
+ * 3. Removal will not occur until after deprecation has been noted 
+ *    in at least two major releases.
+ *
+ *                                              |        |Planned |
+ *  Name                                        |Release |Removal |
+ *----------------------------------------------+--------+--------+
+ * Mod{NAME}C                                     5.6.2    6.2
+ *   {NAME} = sanitized version of the DesktopModule Name 
+ *   Used on <div> tag surrounding Module Content, inside container
+ *----------------------------------------------+--------+--------+
+ */  
+
+
+
+/* PAGE BACKGROUND */
+/* background color for the header at the top of the page  */
+.HeadBg {
+}
+
+/* background color for the content part of the pages */
+Body
+{
+}
+
+.ControlPanel {
+}
+
+/* background/border colors for the selected tab */
+.TabBg {
+}
+
+.LeftPane  { 
+}
+
+.ContentPane  { 
+}
+
+.RightPane  { 
+}
+
+/* text style for the selected tab */
+.SelectedTab {
+}
+
+/* hyperlink style for the selected tab */
+A.SelectedTab:link {
+}
+
+A.SelectedTab:visited  {
+}
+
+A.SelectedTab:hover    {
+}
+
+A.SelectedTab:active   {
+}
+
+/* text style for the unselected tabs */
+.OtherTabs {
+}
+    
+/* hyperlink style for the unselected tabs */
+A.OtherTabs:link {
+}
+
+A.OtherTabs:visited  {
+}
+
+A.OtherTabs:hover    {
+}
+
+A.OtherTabs:active   {
+}
+
+/* GENERAL */
+/* style for module titles */
+.Head   {
+}
+
+/* style of item titles on edit and admin pages */
+.SubHead    {
+}
+
+/* module title style used instead of Head for compact rendering by QuickLinks and Signin modules */
+.SubSubHead {
+}
+
+/* text style used for most text rendered by modules */
+.Normal
+{
+}
+
+/* text style used for textboxes in the admin and edit pages, for Nav compatibility */
+.NormalTextBox
+{
+}
+
+.NormalRed
+{
+}
+
+.NormalBold
+{
+}
+
+/* text style for buttons and link buttons used in the portal admin pages */
+.CommandButton     {
+}
+    
+/* hyperlink style for buttons and link buttons used in the portal admin pages */
+A.CommandButton:link {
+}
+
+A.CommandButton:visited  {
+}
+
+A.CommandButton:hover    {
+}
+    
+A.CommandButton:active   {
+}
+
+/* button style for standard HTML buttons */
+.StandardButton     {
+}
+
+/* GENERIC */
+H1  {
+}
+
+H2  {
+}
+
+H3  {
+}
+
+H4  {
+}
+
+H5, DT  {
+}
+
+H6  {
+}
+
+TFOOT, THEAD    {
+}
+
+TH  {
+}
+
+A:link  {
+}
+
+A:visited   {
+}
+
+A:hover {
+}
+
+A:active    {
+}
+
+SMALL   {
+}
+
+BIG {
+}
+
+BLOCKQUOTE, PRE {
+}
+
+
+UL LI   {
+}
+
+UL LI LI    {
+}
+
+UL LI LI LI {
+}
+
+OL LI   {
+}
+
+OL OL LI    {
+}
+
+OL OL OL LI {
+}
+OL UL LI   {
+}
+
+HR {
+}
+
+/* MODULE-SPECIFIC */
+/* text style for reading messages in Discussion */    
+.Message    {
+}   
+
+/* style of item titles by Announcements and events */
+.ItemTitle    {
+}
+
+/* Menu-Styles */
+/* Module Title Menu */
+.ModuleTitle_MenuContainer {
+}
+
+.ModuleTitle_MenuBar {
+}
+
+.ModuleTitle_MenuItem {
+}
+
+.ModuleTitle_MenuIcon {
+}
+
+.ModuleTitle_SubMenu {
+}
+
+.ModuleTitle_MenuBreak {
+}
+
+.ModuleTitle_MenuItemSel {
+}
+
+.ModuleTitle_MenuArrow {
+}
+
+.ModuleTitle_RootMenuArrow {
+}
+
+/* Main Menu */
+
+.MainMenu_MenuContainer {
+}
+
+.MainMenu_MenuBar {
+}
+
+.MainMenu_MenuItem {
+}
+
+.MainMenu_MenuIcon {
+}
+
+.MainMenu_SubMenu {
+}
+
+.MainMenu_MenuBreak {
+}
+
+.MainMenu_MenuItemSel {
+}
+
+.MainMenu_MenuArrow {
+}
+
+.MainMenu_RootMenuArrow {
+}
+
+/* Login Styles */
+.LoginPanel{
+}
+
+.LoginTabGroup{
+}
+
+.LoginTab {
+}
+
+.LoginTabSelected{
+}
+
+.LoginTabHover{
+}
+
+.LoginContainerGroup{
+}
+
+.LoginContainer{
+}
+
+
+/* -------------------- Custom styles -- cbuth@akimeka.com --------- */
+
+
+
+#dnngo_megamenu > div > ul > li > a > span {padding:0 16px;}
+#dnngo_megamenu .dnngo_menuslide {border-top:0px;}
+#dnngo_megamenu .dnngo_slide_menu {box-shadow:0 2px 2px rgba(0, 0, 0, 0.4);}
+.title-H2 {text-transform:uppercase;}
+.customTable td {vertical-align:top;}
+.customTable td[colspan] {padding-top:30px;}
+.customTable2 td {border:1px solid #ccc;padding:5px;}
+
+h2 {margin:20px 0 20px;}
+
+#umg_container6138 {width:100% !important;}
+
+#umg_large6138 .image {width:100%;height:auto;margin-top:0 !important;}
+
+#umg_largelist6138 {height:416px !important;}
+
+#umg_prev6138 {left:0 !important;}
+#umg_next6138 {right:0;left:auto !important;}
+#umg_play6138 {display:none;}
+
+.copyright_style .sep, #dnn_dnnPRIVACY_hypPrivacy, #dnn_dnnTERMS_hypTerms {display:none;}
+
+#umg_more6138 {
+    left: 0px;
+    top: 0px;
+    width: 63%;
+    height: 88%;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.Footer_Contentbg {
+    background: #fff;
+    background-image: url(/portals/4/images/iea-logo.jpg);
+    height: 129px;
+    background-repeat: no-repeat;
+    background-size: 135px auto;
+    background-position: 50% 50%;
+	margin-top:100px;
+}
+/* .Footer_Contentbg:before {border-top:1px solid #ccc;content:"";display:block;height:1px;margin:40px auto;width:400px;} */
+
+.article.details h1 {clear:both;}
+p.meta_text, .edn_socialPrintWrapper, 
+.eds_news_NewsOne.eds_subCollection_news .article .meta_text, 
+.article.details .box_list_container,
+.article.in_list.span .box_list_container {display:none;}
+.eds_news_NewsOne.eds_subCollection_news .article.in_list.span { border-bottom: 1px solid #ebebeb;}
+
+.dnn_layout.LogoMenuBox {width:90%;}
+.roll_replace img#dnn_dnnLOGO_imgLogo {width: 70%;height: auto;}
+
+.search, a.search:link, a.search:active, a.search:visited {display:none;}
