@@ -3,98 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/links/</loc>
+    <loc>/members/</loc>
+    <lastmod>2018-02-23T09:11:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
     <lastmod>2018-02-22T23:49:34-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/hts-tcp-fosters-young-researchers-in-hts/</loc>
+    <loc>/hts-tcp-fosters-young-researchers-in-hts/</loc>
     <lastmod>2018-02-22T23:46:55-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/collaboration-with-other-iea-tcps/</loc>
+    <loc>/collaboration-with-other-iea-tcps/</loc>
     <lastmod>2018-02-22T23:43:26-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2018-02-22T23:23:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/technologies/power-sector-applications/</loc>
+    <loc>/technologies/power-sector-applications/</loc>
     <lastmod>2018-02-22T23:18:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/technologies/benefits/</loc>
+    <loc>/technologies/benefits/</loc>
     <lastmod>2018-02-22T22:42:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/technologies/</loc>
+    <loc>/technologies/</loc>
     <lastmod>2018-02-22T22:42:24-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/technologies/benefits/glossary/</loc>
+    <loc>/technologies/benefits/glossary/</loc>
     <lastmod>2018-02-22T22:39:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/technologies/benefits/other-applications/</loc>
+    <loc>/technologies/benefits/other-applications/</loc>
     <lastmod>2018-02-22T22:39:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/superconductivity-primer/</loc>
+    <loc>/superconductivity-primer/</loc>
     <lastmod>2018-02-22T22:34:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2018-02-22T21:42:51-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-us/</loc>
+    <loc>/about-us/</loc>
     <lastmod>2018-02-22T11:27:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-us/the-iea-tcp/</loc>
+    <loc>/about-us/the-iea-tcp/</loc>
     <lastmod>2018-02-22T11:27:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-us/exco-contact-information/</loc>
+    <loc>/about-us/exco-contact-information/</loc>
     <lastmod>2018-02-22T10:45:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-us/strategic-direction/</loc>
+    <loc>/about-us/strategic-direction/</loc>
     <lastmod>2018-02-22T10:45:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-us/</loc>
+    <loc>/about-us/</loc>
     <lastmod>2018-02-22T11:27:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-02-22T23:49:34-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-02-23T09:11:28-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
