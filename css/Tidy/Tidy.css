@@ -2,6 +2,9 @@
 |  Design Elements                                        |
 +========================================================*/
 
+
+main.pb7 {max-width: 1280px;margin:auto;}
+
 a#dnn_dnnLogo_hypLogo {
 	float: left;
 	margin-right: 20px;
@@ -121,6 +124,33 @@ a#dnn_dnnLogo_hypLogo {
 	clear: both;
 	padding: 20px 15px;
 }
+
+.summary .article_image {
+    float: left;
+    margin: 0 10px 10px 0;
+    overflow: hidden;
+    line-height: 0;
+    font-size: 0;
+    max-width: 100%;
+}
+.summary .article_image img {
+    display: block;
+    border: 0;
+    padding: 0;
+    margin: 4px 0 0;
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+	border-radius: 5px;
+	width:200px;
+}
+.summary h1 {font-size:20px;}
+.pageWidth.summary::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.pageWidth.summary {border-bottom:1px solid #ebebeb;padding:15px 0;}
 
 img {
 	

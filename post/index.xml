@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on ieahts.org</title>
+    <link>https://energetics-incorporated.github.io/IEAHTS/post/</link>
+    <description>Recent content in Articles on ieahts.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://energetics-incorporated.github.io/IEAHTS/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siemens SCFL in Germany&#39;s Stadwerke Grid</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/siemens-scfl-in-germanys-stadwerke-grid/</link>
+      <pubDate>Mon, 26 Feb 2018 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/siemens-scfl-in-germanys-stadwerke-grid/</guid>
+      <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&amp;rsquo;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
+    </item>
+    
+    <item>
+      <title>AmpaCity Cable and Fault Current Limiter in Essen Germany</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</link>
+      <pubDate>Thu, 26 May 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</guid>
+      <description>A 1 km-long, 10 kV three-layer coaxial cable is currently in operation in the Essen grid. A fault current limiter (shown in the photo on right) was also installed and thus eliminated the need of four substations positioned downstream. The project focuses on the practical realization of superconducting cables and will identify any issues that arise during the two-year long operation. In-grid continuous loading trials began last summer. German electric utility RWE together with Siemens, Nexans, and Karlsruhe Institute of Technology are all working on this project.</description>
+    </item>
+    
+    <item>
+      <title>HTS DC Cable for Data Center in Hokkaido, Japan</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</link>
+      <pubDate>Tue, 26 Apr 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</guid>
+      <description>In August 2015, the consortium named Ishikari Superconducting DC Power Transmission System (Chiyoda Chemical Engineering Plant, SEI, Chubu university, Sakura Internet) announced a successful transmission of 500m long HTS DC cable with a large current of 1.5kA (corresponding to about 300,000 households) and 100MVA in Ishikari city of Hokkaido, Japan. Furthermore, they started the DC current transmission from a solar power plant to a data center in Ishikari. There are no DC-AC conversions in the line and it is expected to be a highly efficient use of the power.</description>
+    </item>
+    
+    <item>
+      <title>HTS DC, AC Cable Test in Jeju, Korea</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-ac-cable-test-in-jeju-korea/</link>
+      <pubDate>Tue, 26 Apr 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-ac-cable-test-in-jeju-korea/</guid>
+      <description>Korea Electric Power Corporation (KEPCO), LS Cable &amp;amp; System, and AMSC announced that a HVDC HTS cable was energized on Jeju Island in late 2014. The 500 meter, 80kV DC cable by AMSC&#39;s Amperium&amp;reg; HTS wire were successfully tested in KEPCO&#39;s electricity grid. KEPCO is planning to make a 1km and 154kV AC cable at the same site.</description>
+    </item>
+    
+    <item>
+      <title>DC Cable for Train Operation in the Izu District, Japan</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/dc-cable-for-train-operation-in-the-izu-district-japan/</link>
+      <pubDate>Sat, 26 Mar 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/dc-cable-for-train-operation-in-the-izu-district-japan/</guid>
+      <description>The Railway Technical Research Institute in Japan announced in April, 2015 that they succeeded in transporting a current of 2000A for a real train operation in a Tokyo suburb area (photo on the left shows the HTS cable). This system was tested in 2014 in their laboratory railway center, which has a train running with 310m long transmission cable. They expect more efficient power use in a train system such as reduction of power loss or substation using HTS DC train cable.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Superconductor Manufacturing Institute (ASMI) in the United States</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</link>
+      <pubDate>Fri, 26 Feb 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</guid>
+      <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project The University of Houston announced plans for ASMI in May, when it received a $500,000 planning grant from the National Institute of Standards and Technology. The goal of the institute is to build an industry-based consortium to speed full commercialization of high-temperature superconductors. ASMI is holding workshops to develop cost-shared projects and also to develop a long term sustainability model.</description>
+    </item>
+    
+    <item>
+      <title>Resilient Electric Grid Project in the United States</title>
+      <link>https://energetics-incorporated.github.io/IEAHTS/post/resilient-electric-grid-project-in-the-united-states/</link>
+      <pubDate>Tue, 26 Jan 2016 14:39:05 -0500</pubDate>
+      
+      <guid>https://energetics-incorporated.github.io/IEAHTS/post/resilient-electric-grid-project-in-the-united-states/</guid>
+      <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&amp;rsquo; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
+    </item>
+    
+  </channel>
+</rss>
