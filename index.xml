@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SuperConductivity on ieahts.org</title>
-    <link>https://energetics-incorporated.github.io/IEAHTS/</link>
+    <link>https://ieahts.org/</link>
     <description>Recent content in SuperConductivity on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Feb 2018 14:39:05 -0500</lastBuildDate>
     
-	<atom:link href="https://energetics-incorporated.github.io/IEAHTS/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ieahts.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Siemens SCFL in Germany&#39;s Stadwerke Grid</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/siemens-scfl-in-germanys-stadwerke-grid/</link>
+      <link>https://ieahts.org/post/siemens-scfl-in-germanys-stadwerke-grid/</link>
       <pubDate>Mon, 26 Feb 2018 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/siemens-scfl-in-germanys-stadwerke-grid/</guid>
+      <guid>https://ieahts.org/post/siemens-scfl-in-germanys-stadwerke-grid/</guid>
       <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&amp;rsquo;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
     </item>
     
     <item>
       <title>Fundamental Technologies</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/fundamental-technologies/</link>
+      <link>https://ieahts.org/technologies/fundamental-technologies/</link>
       <pubDate>Fri, 23 Feb 2018 10:32:40 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/fundamental-technologies/</guid>
+      <guid>https://ieahts.org/technologies/fundamental-technologies/</guid>
       <description>Superconducting wire is the fundamental technology enabling an array of innovative devices. More than 15 companies are working actively to increase the total production capacity of HTS wire. Some companies can manufacture 1000 km/year of Bi2223, YBCO and MgB2 wire. Cost of the wire is recognized as a key factor for more widespread use in electric power applications; the current cost is around a few hundred $/kilo-amp-meter (kAm) (using critical current (Ic) at 77 K and self-field) for YBCO and should be reduced to around $10/kAm in 2030 for more widespread market adoption.</description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/members/</link>
+      <link>https://ieahts.org/members/</link>
       <pubDate>Fri, 23 Feb 2018 09:11:28 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/members/</guid>
+      <guid>https://ieahts.org/members/</guid>
       <description>For access to member documents please contact: Donald Mosteller
 Member Documents
  September 2017 ExCo in Geneva  B. Marchionini, Operating Agent (USA), Status and Updates L. Munuera, IEA, IEA Update Y. Yamada, Operating Agent (JP), Overview of Last ExCo Meeting Y. Yamada, Operating Agent (JP), HTS Activity in China Meeting Minutes  July 2017 ExCo in Kawasaki ExCo Open Session: HTS Workshop
@@ -43,38 +43,38 @@ Member Documents
     
     <item>
       <title>Links</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/links/</link>
+      <link>https://ieahts.org/links/</link>
       <pubDate>Thu, 22 Feb 2018 23:49:34 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/links/</guid>
+      <guid>https://ieahts.org/links/</guid>
       <description>Conductor Manufacturers HTS conductor  American Superconductor Bruker Energy &amp;amp; Supercon Technologies 3-Cs Ltd 3G-HTS deutsche nanoschicht EVICO GmbH (offers NiW substrate) Fujikura Furukawa MetOx OXOLUTIA Shanghai Superconductor Technology Sumitomo Electric Industries SuperCon (LTS and Bi-2212 for MRI) Superconductor Technologies Inc. SuperOx SuperPower SuNAM Theva  MgB2 conductor  Columbus Superconductor Diboride Conductors HyperTech  Cryogenics  Air Liquide Aisen Seki Co. Ltd &amp;amp; Chubu Electric (cryocoolers, acoustic Stirling ) Chart Industries (Qdrive) CryoMech (cryo-coolers, GM) CryoZone (cryostats, cryogenic systems, gas fans &amp;amp; liquid pumps) Linde Mayekwa Mfg.</description>
     </item>
     
     <item>
       <title>HTS TCP Fosters Young Researchers in HTS</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/hts-tcp-fosters-young-researchers-in-hts/</link>
+      <link>https://ieahts.org/hts-tcp-fosters-young-researchers-in-hts/</link>
       <pubDate>Thu, 22 Feb 2018 23:46:55 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/hts-tcp-fosters-young-researchers-in-hts/</guid>
+      <guid>https://ieahts.org/hts-tcp-fosters-young-researchers-in-hts/</guid>
       <description>Encouraging the next generation of scientists and engineers to become interested in superconductivity is&amp;nbsp;critical. Students and young professionals have the potential to develop new and innovative ideas to help the technology proceed along the pathway to commercialization. To this end, the HTS TCP has been hosting a competition to nurture young researchers in this topic area since 2014.
 On 17 November 2015, a Special Session at the International Symposium on Superconductivity held in Tokyo, Japan entitled Superconducting Applications and Future Energy Perspective.</description>
     </item>
     
     <item>
       <title>Collaboration With Other IEA TCPs</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/collaboration-with-other-iea-tcps/</link>
+      <link>https://ieahts.org/collaboration-with-other-iea-tcps/</link>
       <pubDate>Thu, 22 Feb 2018 23:43:26 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/collaboration-with-other-iea-tcps/</guid>
+      <guid>https://ieahts.org/collaboration-with-other-iea-tcps/</guid>
       <description>The HTS TCP collaborates with several other TCPs such as the International Smart Grid Action Network.&amp;nbsp; Annex 5, the Smart Grid International Research Facility Network (SIRFN) is one group in particular that the HTS TCP connects with on a regular basis. SIRFN gives participating countries the ability to evaluate pre-competitive technologies and systems approaches in a wide range of smart grid implementation use cases and geographies using common testing procedures. The HTS TCP is also active in developing products for the Program of Work for Annex 6, Power T&amp;amp;D Systems.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/publications/</link>
+      <link>https://ieahts.org/publications/</link>
       <pubDate>Thu, 22 Feb 2018 23:23:45 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/publications/</guid>
+      <guid>https://ieahts.org/publications/</guid>
       <description>&#34;Annual Report 2016: IEA Technology Collaboration Program on High Temperature Superconductivity,&#34; completed for the International Energy Agency HTS TCP (June 2017)
 &#34;IEA End Use Working Party Summary Document&#34;,&amp;nbsp;completed for the International Energy Agency&#39;s, End Use Working Party regarding policy messages and recommendations and achievements (February 2016)
 Y. Yamada, B. Marchionini, &#34;High Temperature Superconductivity, A Roadmap for the Electric Power Sector, 2015-2030&#34;,&amp;nbsp;completed for the International Energy Agency HTS TCP (October 2015)</description>
@@ -82,19 +82,19 @@ Y. Yamada, B. Marchionini, &#34;High Temperature Superconductivity, A Roadmap fo
     
     <item>
       <title>Power Sector Applications</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/power-sector-applications/</link>
+      <link>https://ieahts.org/technologies/power-sector-applications/</link>
       <pubDate>Thu, 22 Feb 2018 23:18:53 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/power-sector-applications/</guid>
+      <guid>https://ieahts.org/technologies/power-sector-applications/</guid>
       <description>Cables There is more than 20 years of operating hour experience with cable projects worldwide. Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV. Nearly ten cable demonstration projects are under development; these include projects in the distribution voltage (10 kV&amp;mdash;66 kV) and transmission voltage (66 kV&amp;mdash;275 kV) range.</description>
     </item>
     
     <item>
       <title>Glossary</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/benefits/glossary/</link>
+      <link>https://ieahts.org/technologies/benefits/glossary/</link>
       <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/benefits/glossary/</guid>
+      <guid>https://ieahts.org/technologies/benefits/glossary/</guid>
       <description>1G
  First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
    2G
@@ -106,56 +106,56 @@ Y. Yamada, B. Marchionini, &#34;High Temperature Superconductivity, A Roadmap fo
     
     <item>
       <title>Other Applications</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/benefits/other-applications/</link>
+      <link>https://ieahts.org/technologies/benefits/other-applications/</link>
       <pubDate>Thu, 22 Feb 2018 22:39:52 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/benefits/other-applications/</guid>
+      <guid>https://ieahts.org/technologies/benefits/other-applications/</guid>
       <description>There are also many other notable superconductive application areas outside of electric power sector, such as medicine, communications, industry, scientific research, transportation, and defense. Several specific examples of these applications include high-field magnets, magnetic resonance imaging (MRI), nuclear magnetic resonance (NMR), magnetically levitated trains, and ship degaussing systems. These applications&amp;mdash;which today are often based on LTS&amp;mdash;demonstrate that superconductive technology can be used in a variety of applications in many sectors of the world economy.</description>
     </item>
     
     <item>
       <title>Superconductivity Primer</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/superconductivity-primer/</link>
+      <link>https://ieahts.org/superconductivity-primer/</link>
       <pubDate>Thu, 22 Feb 2018 22:34:23 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/superconductivity-primer/</guid>
+      <guid>https://ieahts.org/superconductivity-primer/</guid>
       <description>Superconductivity is a phenomenon that causes certain materials, at low temperatures, to lose all resistance to the flow of electricity. The lack of resistance enables a range of innovative technology applications. The temperature at which resistance ceases is referred to as the &amp;ldquo;transition temperature&amp;rdquo;, or critical temperature (Tc). Tc is usually measured in kelvin (K)&amp;mdash;0 K being absolute zero. HTS gets its name originally because it has a higher transition temperature (77 K, which can be achieved when using liquid nitrogen) than Low temperature superconductivity (LTS) (around 4.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/projects/</link>
+      <link>https://ieahts.org/projects/</link>
       <pubDate>Thu, 22 Feb 2018 21:42:51 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/projects/</guid>
+      <guid>https://ieahts.org/projects/</guid>
       <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
  </description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/</link>
+      <link>https://ieahts.org/about-us/</link>
       <pubDate>Thu, 22 Feb 2018 11:27:27 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/</guid>
+      <guid>https://ieahts.org/about-us/</guid>
       <description>Members of the Executive Committee include senior persons engaged in research, development and demonstration and persons who manage those efforts. Each institution chooses its representatives according to its own needs. Members of the Executive Committee take turns serving as host to the twice yearly Executive Committee Meeting. These meetings are the venue for face-to-face discussion. In addition, the host complements these discussions by arranging presentations from national experts and/or tours of whatever facilities the host deems appropriate.</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/the-iea-tcp/</link>
+      <link>https://ieahts.org/about-us/the-iea-tcp/</link>
       <pubDate>Thu, 22 Feb 2018 11:27:27 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/the-iea-tcp/</guid>
+      <guid>https://ieahts.org/about-us/the-iea-tcp/</guid>
       <description>Members of the Executive Committee include senior persons engaged in research, development and demonstration and persons who manage those efforts. Each institution chooses its representatives according to its own needs. Members of the Executive Committee take turns serving as host to the twice yearly Executive Committee Meeting. These meetings are the venue for face-to-face discussion. In addition, the host complements these discussions by arranging presentations from national experts and/or tours of whatever facilities the host deems appropriate.</description>
     </item>
     
     <item>
       <title>ExCo Contact Information</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/exco-contact-information/</link>
+      <link>https://ieahts.org/about-us/exco-contact-information/</link>
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/exco-contact-information/</guid>
+      <guid>https://ieahts.org/about-us/exco-contact-information/</guid>
       <description>Canada    Dr. Julian Cave
 Chercheur
 Hydro Quebec, Institut de recherche
@@ -180,65 +180,65 @@ Fax: +358 3 365 2160</description>
     
     <item>
       <title>Strategic Direction</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/strategic-direction/</link>
+      <link>https://ieahts.org/about-us/strategic-direction/</link>
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/strategic-direction/</guid>
+      <guid>https://ieahts.org/about-us/strategic-direction/</guid>
       <description>The HTS TCP conducts outreach toward electric utilities, governments, the professional engineering community, and the RD&amp;amp;D community to communicate the potential benefits of HTS technology.&amp;nbsp; Examples of this outreach include:
  Developing position papers and strategic documents such as roadmaps and technical reports Providing expertise that can inform the evaluations and assessments performed under the TCP Interacting with other related TCPs to leverage synergies and opportunities Disseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sector Address and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industry  The HTS TCP has developed a number of publications.</description>
     </item>
     
     <item>
       <title>AmpaCity Cable and Fault Current Limiter in Essen Germany</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</link>
+      <link>https://ieahts.org/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</link>
       <pubDate>Thu, 26 May 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</guid>
+      <guid>https://ieahts.org/post/ampacity-cable-and-fault-current-limiter-in-essen-germany/</guid>
       <description>A 1 km-long, 10 kV three-layer coaxial cable is currently in operation in the Essen grid. A fault current limiter (shown in the photo on right) was also installed and thus eliminated the need of four substations positioned downstream. The project focuses on the practical realization of superconducting cables and will identify any issues that arise during the two-year long operation. In-grid continuous loading trials began last summer. German electric utility RWE together with Siemens, Nexans, and Karlsruhe Institute of Technology are all working on this project.</description>
     </item>
     
     <item>
       <title>HTS DC Cable for Data Center in Hokkaido, Japan</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</link>
+      <link>https://ieahts.org/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</link>
       <pubDate>Tue, 26 Apr 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</guid>
+      <guid>https://ieahts.org/post/hts-dc-cable-for-data-center-in-hokkaido-japan/</guid>
       <description>In August 2015, the consortium named Ishikari Superconducting DC Power Transmission System (Chiyoda Chemical Engineering Plant, SEI, Chubu university, Sakura Internet) announced a successful transmission of 500m long HTS DC cable with a large current of 1.5kA (corresponding to about 300,000 households) and 100MVA in Ishikari city of Hokkaido, Japan. Furthermore, they started the DC current transmission from a solar power plant to a data center in Ishikari. There are no DC-AC conversions in the line and it is expected to be a highly efficient use of the power.</description>
     </item>
     
     <item>
       <title>HTS DC, AC Cable Test in Jeju, Korea</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-ac-cable-test-in-jeju-korea/</link>
+      <link>https://ieahts.org/post/hts-dc-ac-cable-test-in-jeju-korea/</link>
       <pubDate>Tue, 26 Apr 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/hts-dc-ac-cable-test-in-jeju-korea/</guid>
+      <guid>https://ieahts.org/post/hts-dc-ac-cable-test-in-jeju-korea/</guid>
       <description>Korea Electric Power Corporation (KEPCO), LS Cable &amp;amp; System, and AMSC announced that a HVDC HTS cable was energized on Jeju Island in late 2014. The 500 meter, 80kV DC cable by AMSC&#39;s Amperium&amp;reg; HTS wire were successfully tested in KEPCO&#39;s electricity grid. KEPCO is planning to make a 1km and 154kV AC cable at the same site.</description>
     </item>
     
     <item>
       <title>DC Cable for Train Operation in the Izu District, Japan</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/dc-cable-for-train-operation-in-the-izu-district-japan/</link>
+      <link>https://ieahts.org/post/dc-cable-for-train-operation-in-the-izu-district-japan/</link>
       <pubDate>Sat, 26 Mar 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/dc-cable-for-train-operation-in-the-izu-district-japan/</guid>
+      <guid>https://ieahts.org/post/dc-cable-for-train-operation-in-the-izu-district-japan/</guid>
       <description>The Railway Technical Research Institute in Japan announced in April, 2015 that they succeeded in transporting a current of 2000A for a real train operation in a Tokyo suburb area (photo on the left shows the HTS cable). This system was tested in 2014 in their laboratory railway center, which has a train running with 310m long transmission cable. They expect more efficient power use in a train system such as reduction of power loss or substation using HTS DC train cable.</description>
     </item>
     
     <item>
       <title>Advanced Superconductor Manufacturing Institute (ASMI) in the United States</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</link>
+      <link>https://ieahts.org/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</link>
       <pubDate>Fri, 26 Feb 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</guid>
+      <guid>https://ieahts.org/post/advanced-superconductor-manufacturing-institute-asmi-in-the-united-states/</guid>
       <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project The University of Houston announced plans for ASMI in May, when it received a $500,000 planning grant from the National Institute of Standards and Technology. The goal of the institute is to build an industry-based consortium to speed full commercialization of high-temperature superconductors. ASMI is holding workshops to develop cost-shared projects and also to develop a long term sustainability model.</description>
     </item>
     
     <item>
       <title>Resilient Electric Grid Project in the United States</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/post/resilient-electric-grid-project-in-the-united-states/</link>
+      <link>https://ieahts.org/post/resilient-electric-grid-project-in-the-united-states/</link>
       <pubDate>Tue, 26 Jan 2016 14:39:05 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/post/resilient-electric-grid-project-in-the-united-states/</guid>
+      <guid>https://ieahts.org/post/resilient-electric-grid-project-in-the-united-states/</guid>
       <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&amp;rsquo; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
     </item>
     

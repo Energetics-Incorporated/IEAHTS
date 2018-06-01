@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on ieahts.org</title>
-    <link>https://energetics-incorporated.github.io/IEAHTS/technologies/</link>
+    <link>https://ieahts.org/technologies/</link>
     <description>Recent content in Technologies on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate>
     
-	<atom:link href="https://energetics-incorporated.github.io/IEAHTS/technologies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ieahts.org/technologies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fundamental Technologies</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/fundamental-technologies/</link>
+      <link>https://ieahts.org/technologies/fundamental-technologies/</link>
       <pubDate>Fri, 23 Feb 2018 10:32:40 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/fundamental-technologies/</guid>
+      <guid>https://ieahts.org/technologies/fundamental-technologies/</guid>
       <description>Superconducting wire is the fundamental technology enabling an array of innovative devices. More than 15 companies are working actively to increase the total production capacity of HTS wire. Some companies can manufacture 1000 km/year of Bi2223, YBCO and MgB2 wire. Cost of the wire is recognized as a key factor for more widespread use in electric power applications; the current cost is around a few hundred $/kilo-amp-meter (kAm) (using critical current (Ic) at 77 K and self-field) for YBCO and should be reduced to around $10/kAm in 2030 for more widespread market adoption.</description>
     </item>
     
     <item>
       <title>Power Sector Applications</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/technologies/power-sector-applications/</link>
+      <link>https://ieahts.org/technologies/power-sector-applications/</link>
       <pubDate>Thu, 22 Feb 2018 23:18:53 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/technologies/power-sector-applications/</guid>
+      <guid>https://ieahts.org/technologies/power-sector-applications/</guid>
       <description>Cables There is more than 20 years of operating hour experience with cable projects worldwide. Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV. Nearly ten cable demonstration projects are under development; these include projects in the distribution voltage (10 kV&amp;mdash;66 kV) and transmission voltage (66 kV&amp;mdash;275 kV) range.</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About-Us on ieahts.org</title>
-    <link>https://energetics-incorporated.github.io/IEAHTS/about-us/</link>
+    <link>https://ieahts.org/about-us/</link>
     <description>Recent content in About-Us on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 11:27:27 -0500</lastBuildDate>
     
-	<atom:link href="https://energetics-incorporated.github.io/IEAHTS/about-us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ieahts.org/about-us/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/the-iea-tcp/</link>
+      <link>https://ieahts.org/about-us/the-iea-tcp/</link>
       <pubDate>Thu, 22 Feb 2018 11:27:27 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/the-iea-tcp/</guid>
+      <guid>https://ieahts.org/about-us/the-iea-tcp/</guid>
       <description>Members of the Executive Committee include senior persons engaged in research, development and demonstration and persons who manage those efforts. Each institution chooses its representatives according to its own needs. Members of the Executive Committee take turns serving as host to the twice yearly Executive Committee Meeting. These meetings are the venue for face-to-face discussion. In addition, the host complements these discussions by arranging presentations from national experts and/or tours of whatever facilities the host deems appropriate.</description>
     </item>
     
     <item>
       <title>ExCo Contact Information</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/exco-contact-information/</link>
+      <link>https://ieahts.org/about-us/exco-contact-information/</link>
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/exco-contact-information/</guid>
+      <guid>https://ieahts.org/about-us/exco-contact-information/</guid>
       <description>Canada    Dr. Julian Cave
 Chercheur
 Hydro Quebec, Institut de recherche
@@ -50,10 +50,10 @@ Fax: +358 3 365 2160</description>
     
     <item>
       <title>Strategic Direction</title>
-      <link>https://energetics-incorporated.github.io/IEAHTS/about-us/strategic-direction/</link>
+      <link>https://ieahts.org/about-us/strategic-direction/</link>
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
-      <guid>https://energetics-incorporated.github.io/IEAHTS/about-us/strategic-direction/</guid>
+      <guid>https://ieahts.org/about-us/strategic-direction/</guid>
       <description>The HTS TCP conducts outreach toward electric utilities, governments, the professional engineering community, and the RD&amp;amp;D community to communicate the potential benefits of HTS technology.&amp;nbsp; Examples of this outreach include:
  Developing position papers and strategic documents such as roadmaps and technical reports Providing expertise that can inform the evaluations and assessments performed under the TCP Interacting with other related TCPs to leverage synergies and opportunities Disseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sector Address and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industry  The HTS TCP has developed a number of publications.</description>
     </item>
