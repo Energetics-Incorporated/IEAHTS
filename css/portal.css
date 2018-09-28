@@ -351,3 +351,5 @@ p.meta_text, .edn_socialPrintWrapper,
 .roll_replace img#dnn_dnnLOGO_imgLogo {width: 70%;height: auto;}
 
 .search, a.search:link, a.search:active, a.search:visited {display:none;}
+
+li {margin-top:9px;margin-bottom:9px;}
