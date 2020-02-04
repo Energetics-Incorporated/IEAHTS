@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>ieahts.org  | Projects</title>
+    <title>ieahts.org  | Project Map</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -29,29 +29,26 @@
 
     
 
-    <meta property="og:title" content="Projects" />
-<meta property="og:description" content="Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
- " />
+    <meta property="og:title" content="Project Map" />
+<meta property="og:description" content="   body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;} #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}    mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, // container id style: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet location center: [-74.5, 40], // starting position [lng, lat] zoom: 9 // starting zoom });  " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://ieahts.org/projects/" /><meta property="article:published_time" content="2018-02-22T21:42:51-05:00"/>
-<meta property="article:modified_time" content="2018-02-22T21:42:51-05:00"/>
+<meta property="og:url" content="https://ieahts.org/map/" /><meta property="article:published_time" content="2020-01-22T11:27:27-05:00"/>
+<meta property="article:modified_time" content="2020-01-22T11:27:27-05:00"/>
 
-<meta itemprop="name" content="Projects">
-<meta itemprop="description" content="Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
- ">
+<meta itemprop="name" content="Project Map">
+<meta itemprop="description" content="   body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;} #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}    mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, // container id style: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet location center: [-74.5, 40], // starting position [lng, lat] zoom: 9 // starting zoom });  ">
 
 
-<meta itemprop="datePublished" content="2018-02-22T21:42:51-05:00" />
-<meta itemprop="dateModified" content="2018-02-22T21:42:51-05:00" />
-<meta itemprop="wordCount" content="25">
+<meta itemprop="datePublished" content="2020-01-22T11:27:27-05:00" />
+<meta itemprop="dateModified" content="2020-01-22T11:27:27-05:00" />
+<meta itemprop="wordCount" content="48">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Projects"/>
-<meta name="twitter:description" content="Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
- "/>
+<meta name="twitter:title" content="Project Map"/>
+<meta name="twitter:description" content="   body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;} #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}    mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, // container id style: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet location center: [-74.5, 40], // starting position [lng, lat] zoom: 9 // starting zoom });  "/>
 
   </head>
 
@@ -137,14 +134,35 @@
     
       <header>        
         <h1 class="f1">
-          Projects
+          Project Map
         </h1>
       </header>
       <div id="dnn_LeftPane" class="leftPane">
-        <p><p><span style="margin-bottom: 20px; font-size: 16px;">Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.</span></p>
-<hr />
-<iframe style="width:100%;min-height:500px;" scrolling="no" frameborder="no" src="https://ieahts.org/projectsmap/"></iframe>
-<hr /></p>
+        <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.2/mapbox-gl-directions.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.2/mapbox-gl-directions.css' type='text/css' />
+
+<style>
+    
+  body { margin:0; padding:0;font-family: 'Roboto', sans-serif; font-size: 100%;}
+
+  #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}
+
+</style>
+
+<div id='map'></div>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
+center: [-74.5, 40], // starting position [lng, lat]
+zoom: 9 // starting zoom
+});
+</script>
 
       </div>
     

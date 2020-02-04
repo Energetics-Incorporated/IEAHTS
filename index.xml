@@ -6,10 +6,19 @@
     <description>Recent content in SuperConductivity on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Feb 2018 14:39:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 11:27:27 -0500</lastBuildDate>
     
 	<atom:link href="https://ieahts.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project Map</title>
+      <link>https://ieahts.org/map/</link>
+      <pubDate>Wed, 22 Jan 2020 11:27:27 -0500</pubDate>
+      
+      <guid>https://ieahts.org/map/</guid>
+      <description>   body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;} #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}    mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, // container id style: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet location center: [-74.5, 40], // starting position [lng, lat] zoom: 9 // starting zoom });  </description>
+    </item>
     
     <item>
       <title>Siemens SCFL in Germany&#39;s Stadwerke Grid</title>
@@ -251,6 +260,15 @@ Fax: +358 3 365 2160</description>
       
       <guid>https://ieahts.org/post/resilient-electric-grid-project-in-the-united-states/</guid>
       <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&amp;rsquo; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ieahts.org/projectsmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ieahts.org/projectsmap/</guid>
+      <description>IEAHTS Projects Map body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;}#map { position:absolute; top:0; bottom:0; width:100%;}.marker {background-image: url(&#39;/images/map-marker-icon2.png&#39;);background-size: cover;width: 50px;height: 50px;border-radius: 50%;cursor: pointer;}.mapboxgl-popup-content {font-size:13px;line-height:1;}.projectName h3 {margin-bottom:0;}mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;;var map = new mapboxgl.Map ({container: &#39;map&#39;, // container idstyle: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet locationcenter:[10, 40.0], // starting position [lng, lat]zoom: 1 // starting zoom});map.</description>
     </item>
     
   </channel>

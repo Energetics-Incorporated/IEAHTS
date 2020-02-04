@@ -3,279 +3,14 @@
     {
       "type": "Feature",
       "properties": {
-        "Notes": "Selva, UoH",
-        "Summary": "Low Cost Wire for Wind Generator",
-        "References": "ISIS 2013; http://arpa-e.energy.gov/?q=arpa-e-projects/low-cost-superconducting-wire-wind-generators",
-        "Partners": "DOE, University of Houston, SuperPower, Tai-Yang Research, TECO-Westinghouse Motor Company, National Renewable Energy Laboratory",
-        "Status": "Ic = 2895 A/12 mm-w at 30 K, 3 T B//c",
-        "Budget, Term, other data": "$3.7M, 2010-2014",
-        "Region": "USA",
-        "Devices, Wire": "YBCO wire",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -95.369803,
-          29.760427
-        ],
-        "type": "Point"
-      },
-      "id": "013272da802b4b38bb2633495d97a857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "All HTS power devices integrated in a substation. SMES 1MJ/0.5MVA; FCL 220kV/1.5 kA; Transformer 630kVA; 3 phase Cable 75m/1.5kA",
-        "References": "http://jp.xinhuanet.com/2011-05/07/c_13862406.htm \nhttp://english.cas.cn/ST/HT/ht_progress/201203/t20120328_83126.shtml",
-        "Partners": "IEE Chinese Academy of Science, Innopower, Jiangsu Zhongtian Technology, China XD Group, Facility: Gansu Province Baiyin City",
-        "Status": "Major HTS power devices installed in April 2012. Connected in transmission line and tested.",
-        "Budget, Term, other data": "",
-        "Region": "China",
-        "Devices, Wire": "SMES, SFCL, Cable, Transformer (Bi)",
-        "Project": "Gansu Province All Superconducting Substation"
-      },
-      "geometry": {
-        "coordinates": [
-          103.8264,
-          36.0596
-        ],
-        "type": "Point"
-      },
-      "id": "01cab6d2ca6deb5d45454e5dc1e69c84"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "13.8 kV/4 kA-170 m, 3 phase Coaxial, into distribution line",
-        "References": "EPRI Strategic Intelligence Update, December 2015 http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
-        "Partners": "AMSC, Southwire, ConEdison",
-        "Status": "Under construction at a ConEd substation. In grid demonstration date to be determined.",
-        "Budget, Term, other data": "$39M",
-        "Region": "USA",
-        "Devices, Wire": "Cable with YBCO wire",
-        "Project": "HYDRA (Phase 2)"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.9967,
-          40.74838
-        ],
-        "type": "Point"
-      },
-      "id": "131db02351bdd2b9eb4390458454ccdf"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "UoH?",
-        "Summary": "Low Cost Cable for SMES, 50m long",
-        "References": "ISIS2013; http://arpa-e.energy.gov/?q=arpa-e-projects/high-power-low-cost-superconducting-cable",
-        "Partners": "DOE, Tai Yang, Univ. of Houston, NC State Univ.",
-        "Status": "Started in 2013, Novel, Low-Cost, High-Field Conductor for SMES",
-        "Budget, Term, other data": "$2.7M, 2013-2016",
-        "Region": "USA",
-        "Devices, Wire": "Cable",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -95.369803,
-          29.760427
-        ],
-        "type": "Point"
-      },
-      "id": "21d88efe5b7de4ecf6e3fb58d8cc21b4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "Beigin?",
-        "Summary": "",
-        "References": "International Electrotechnical Commission/Technical Committee 90, Xi'an, China 2012",
-        "Partners": "IEE Chinese Academy of Science, China XD Group",
-        "Status": "under development",
-        "Budget, Term, other data": "2012-2015",
-        "Region": "China",
-        "Devices, Wire": "SMES (Y)",
-        "Project": "SMES"
-      },
-      "geometry": {
-        "coordinates": [
-          116.407395,
-          39.904211
-        ],
-        "type": "Point"
-      },
-      "id": "262c86cd115534dbda4d976a3d634ec0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "220 kV",
-        "References": "www.appliedmaterials.com",
-        "Partners": "Applied Materials",
-        "Status": "Commercial Terms agreed",
-        "Budget, Term, other data": "",
-        "Region": "Ireland",
-        "Devices, Wire": "FCL",
-        "Project": "Applied Materials"
-      },
-      "geometry": {
-        "coordinates": [
-          8.2439,
-          53.4129
-        ],
-        "type": "Point"
-      },
-      "id": "282abbbe10432fe1d46901a296a86433"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "1 kA-1 km wire, 1800 A/cm composite conductor; 400 mH, 1500 A DC Reactor",
-        "References": "IEA-HTS-IA ExCo meeting in Jeju Korea 2014 Dec",
-        "Partners": "SuNam, RIST, KERI, Seoul Univ.",
-        "Status": "Low cost YBCO with SUS substrate, 700-800A for ~1km",
-        "Budget, Term, other data": "$13M, 2013-2016",
-        "Region": "Korea",
-        "Devices, Wire": "Wire (Y)",
-        "Project": "Wire"
-      },
-      "geometry": {
-        "coordinates": [
-          127.061023,
-          37.510324
-        ],
-        "type": "Point"
-      },
-      "id": "37eb16254f715d6ed5bf51bc317bd07f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "10 kV/2.3 kA class FCL, 10 kV/2.3 kA-1 km, 3 phase cable",
-        "References": "European Conference on Applied Superconductivity, 2015",
-        "Partners": "Nexans, KIT, RWE, Leibniz University-Hannover",
-        "Status": "Successful operation since 2014",
-        "Budget, Term, other data": "2011-2016",
-        "Region": "EU",
-        "Devices, Wire": "Cable using BiSCCO, Current Limiter",
-        "Project": "AmpaCity"
-      },
-      "geometry": {
-        "coordinates": [
-          7.0116,
-          51.4556
-        ],
-        "type": "Point"
-      },
-      "id": "442abce63c75049867574f4124c4bb96"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "1 km-500 A wire, 22.9 kV, 154 kV Cable, 154 kV Transformer, 22.9 kV FCL, 5 MVA Motor",
-        "References": "International Superconductivity Industry Summit 2013",
-        "Partners": "KERI, SuNam, KEPRI, LSCable, others",
-        "Status": "Complete",
-        "Budget, Term, other data": "$10M/y, 2001-2011",
-        "Region": "Korea",
-        "Devices, Wire": "Wire (Y), Power Applications",
-        "Project": "DAPAS"
-      },
-      "geometry": {
-        "coordinates": [
-          127.061023,
-          37.510324
-        ],
-        "type": "Point"
-      },
-      "id": "460d90770fd70f666742cbd781148c83"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Design, develop and manufacture a full scale, multi-megawatt, direcy-drive superconducing wind generator. It will be installed on an existing modern wind turbine in Thoron, Denmark (3 MW Class, 14 rpm, 128m rotor)",
-        "References": "www.ecoswing.eu",
-        "Partners": "9 partners from 5 countries",
-        "Status": "Currently in the advanced design stage",
-        "Budget, Term, other data": "EUR 13,846,594; March 2015 - March 2019",
-        "Region": "EU",
-        "Devices, Wire": "Wind Generator",
-        "Project": "EcoSwing"
-      },
-      "geometry": {
-        "coordinates": [
-          8.211499,
-          56.6998
-        ],
-        "type": "Point"
-      },
-      "id": "4d880f7da9ff91784f4b301c7ec953a6"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "BNL, NY",
-        "Summary": "Ic 4x Increase (300 A) for 10 MW Direct Drive Wind generator",
-        "References": "ISIS 2013; http://arpa-e.energy.gov/?q=arpa-e-projects/improved-superconducting-wire-wind-generators",
-        "Partners": "DOE, Brookhaven National Laboratory, American Superconductor",
-        "Status": "Ic = 1200 A at 30 K, 2 T B//c",
-        "Budget, Term, other data": "$1.5M+, 2010-2015",
-        "Region": "USA",
-        "Devices, Wire": "YBCO wire",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -72.915383,
-          40.779265
-        ],
-        "type": "Point"
-      },
-      "id": "52a3b2b910d037cdfd17554f7b8855fa"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "350 meters long; rated at 34.5 kV, 800 A and 48 MVA",
-        "References": "DOE",
-        "Partners": "SuperPower, national grid, NYSERDA, Sumitomo Electric",
-        "Status": "Operated for more than 6700 hours using 1G wire and an additional 2400 hours using a 30m segment of YBCO",
-        "Budget, Term, other data": "$27M, 2006-2008",
-        "Region": "USA",
-        "Devices, Wire": "Cable",
-        "Project": "Albany Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.7641,
-          42.64131
-        ],
-        "type": "Point"
-      },
-      "id": "532491c614d369350aa0c09b8a555897"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Bi2223 wire. Test in 66kV real grid for more than 1 year",
-        "References": "TEPCO 2014",
-        "Partners": "NEDO, TEPCO, SEI, Mayekawa Co.",
-        "Status": "in testing operation at TEPCO Asahi substation.",
-        "Budget, Term, other data": "http://www.nedo.go.jp/activities/FK_00018.html $21.6M for 7 years from July 2007 to March 2014",
-        "Region": "Japan",
+        "Project": "Yokohama HTS Cable Project I (NEDO)",
         "Devices, Wire": "Cable (Bi)",
-        "Project": "Yokohama HTS Cable Project I (NEDO)"
+        "Summary": "Bi2223 wire. Test in 66kV real grid for more than 1 year",
+        "Status": "in testing operation at TEPCO Asahi substation.",
+        "Partners": "NEDO, TEPCO, SEI, Mayekawa Co.",
+        "Budget, Term, other data": "http://www.nedo.go.jp/activities/FK_00018.html $21.6M for 7 years from July 2007 to March 2014",
+        "References": "TEPCO 2014",
+        "Region": "Japan"
       },
       "geometry": {
         "coordinates": [
@@ -284,218 +19,19 @@
         ],
         "type": "Point"
       },
-      "id": "53406277679f6d5d9ce5d25d5bd2f567"
+      "id": "01fe9b1658f7776debe2de4b42aa3663"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "1 MW using 2G wire to be used in wind turbines. ~5.2 km of wire used.",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom, Moscow Aviation Institute, Scientific Research Institute of Electromechanics, and the Institute for High Energy Physics",
-        "Status": "50 kW model Tested; Target 10 MW",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "Generator",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "562b521d08351748eb8cabdca36f1dde"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "Shanghai?",
-        "Summary": "10kV/400A",
-        "References": "International Electrotechnical Commission/Technical Committee 90, Xi'an, China 2012",
-        "Partners": "Shanghai Univ.",
-        "Status": "Test in real grid",
-        "Budget, Term, other data": "",
-        "Region": "China",
-        "Devices, Wire": "FCL",
-        "Project": "FCL"
-      },
-      "geometry": {
-        "coordinates": [
-          121.473701,
-          31.230416
-        ],
-        "type": "Point"
-      },
-      "id": "56d2f66d6c325bc342e94c5cbbc033ac"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "0.2 MW Motor using ~1.5 km of wire",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom",
-        "Status": "50 kW model tested; 200 kW, 1 MW designed",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "Motor",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "56f628931b581329fe843c0379990636"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "154 kV/2 kA FCL (2015) in Real Grid in Jeju",
-        "References": "",
-        "Partners": "KEPRI, KIMM, KIT, Hanyang Univ.",
-        "Status": "testing 1 phase 154kV FCL",
-        "Budget, Term, other data": "$8M, 2011-2016",
-        "Region": "Korea",
-        "Devices, Wire": "FCL (Y)",
-        "Project": "Jeju FCL"
-      },
-      "geometry": {
-        "coordinates": [
-          126.4983,
-          33.488999
-        ],
-        "type": "Point"
-      },
-      "id": "5aeb00eeb0f430eacb6af8f47cb83b3d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "22.9 kV, 50 MVA, 1 km Cable in real grid",
-        "References": "KEPCO's Head Office",
-        "Partners": "KEPCO",
-        "Status": "Bidding",
-        "Budget, Term, other data": "2016-2017",
-        "Region": "Korea",
-        "Devices, Wire": "Cable (Y)",
-        "Project": "Shingal Project"
-      },
-      "geometry": {
-        "coordinates": [
-          127.061023,
-          37.510324
-        ],
-        "type": "Point"
-      },
-      "id": "5b771d6c47ce04d2b8721a30121fdc5a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "20 kV/1.4 kA (50 MVA) 2.5 km DC Cable between two substations using open loop pressurized liquid nitrogen system.",
-        "References": "EPRI Strategic Intelligence Update, December 2015; http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
-        "Partners": "Federal Grid Company United Energy System",
-        "Status": "Testing conducted on two 30 m AC cables, two 430 m cables, three pairs of current leads and three joints.",
-        "Budget, Term, other data": "Scheduled to be installed and energized in 2017.",
-        "Region": "Russia",
-        "Devices, Wire": "Cable with BSCO Wire",
-        "Project": "St. Petersburg Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          30.3351,
-          59.9343
-        ],
-        "type": "Point"
-      },
-      "id": "612f5a2f41fe7f087c0e9b4ea4810125"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "360m/10kA DC Cable in a real Al refining factory. Loss reduced by 60% (vs. normal system",
-        "References": "http://www.sei.co.jp/news/press/10/prs862_s.html",
-        "Partners": "IEE Chinese Academy of Science; Facility: Henan Province",
-        "Status": "Tested in 2012, June and in operation since September. 40km Bi wire used.",
-        "Budget, Term, other data": "",
-        "Region": "China",
-        "Devices, Wire": "DC cable (Bi)",
-        "Project": "Henan Province DC Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          113.7536,
-          34.7655
-        ],
-        "type": "Point"
-      },
-      "id": "63b29ef47d2d5e00c2c9823a59c9e581"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "600 meters; design rating of 138 kV, 2.4 kA and 574 MVA",
-        "References": "DOE; AMSC; EPRI Strategic Intelligence Update, December 2015 http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
-        "Partners": "AMSC, LIPA (now PSEG), DOE, Nexans, Air Liquide",
-        "Status": "1G cable operated for more than three years; 1 phase of YBCO cable was installed, but host utility terminated the project before it was energized.",
-        "Budget, Term, other data": "$47M, 2006-2012",
-        "Region": "USA",
-        "Devices, Wire": "Cable with YBCO and BCSO wire",
-        "Project": "LIPA Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.135,
-          40.7891
-        ],
-        "type": "Point"
-      },
-      "id": "65d0ae13da805e56bcabf67b7b35c927"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "Barcelona? Leader's place",
-        "Summary": "",
-        "References": "",
-        "Partners": "",
-        "Status": "200 m-250 A (Bruker)",
-        "Budget, Term, other data": "",
-        "Region": "EU",
-        "Devices, Wire": "",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          2.173403,
-          41.385064
-        ],
-        "type": "Point"
-      },
-      "id": "666541d6641aebb8892c60e3a6bce5db"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "300kW, 1000kWh, 6000rpm. YBCO wire coil and bulk",
-        "References": "http://www.nedo.go.jp/activities/ZZJP2_100007.html",
-        "Partners": "Railway Technical Research Institute, Furukawa, Kubotech, others",
-        "Status": "Test operation started.",
-        "Budget, Term, other data": "$9M/Total, 2011-2015",
-        "Region": "Japan",
+        "Project": "Next Generation Energy Storage System (NEDO)",
         "Devices, Wire": "Flywheel (Y)",
-        "Project": "Next Generation Energy Storage System (NEDO)"
+        "Summary": "300kW, 1000kWh, 6000rpm. YBCO wire coil and bulk",
+        "Status": "Test operation started.",
+        "Partners": "Railway Technical Research Institute, Furukawa, Kubotech, others",
+        "Budget, Term, other data": "$9M/Total, 2011-2015",
+        "References": "http://www.nedo.go.jp/activities/ZZJP2_100007.html",
+        "Region": "Japan"
       },
       "geometry": {
         "coordinates": [
@@ -504,526 +40,40 @@
         ],
         "type": "Point"
       },
-      "id": "6792f4cb43a58a1ca40ad7e4b1cf4bc2"
+      "id": "06fb0140d4ee9687371ed78067c28203"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "200 meters long; rated at 13.2 kV, 3 kA, and 69 MVA",
-        "References": "DOE; Southwire",
-        "Partners": "Ultera, AEP, DOE, ORNL, AMSC, Praxair",
-        "Status": "Operated from 2006-2014 and served the equivalent of 36,000 homes",
-        "Budget, Term, other data": "$11M, 2006-2014",
-        "Region": "USA",
-        "Devices, Wire": "Cable",
-        "Project": "Columbus Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          -83.0047,
-          39.99516
-        ],
-        "type": "Point"
-      },
-      "id": "6a1bea53a0801345a7e619c3264d96f5"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "YBCO based Robel cable used first for a large application. 1 MVA, 1.1 kV (415 V).",
-        "References": "ISTEC, Superconductivity Web21 August issue: http://www.istec.or.jp/web21/web21-E.html",
-        "Partners": "Victoria University of Wellington, Inst.Electirical Eng., Wilson Transformer Company, Callaghan Innovation.",
-        "Status": "Tested in factory and showed low heat loss. Economical evaluation for 40 MVA device was completed.",
+        "Project": "Gansu Province All Superconducting Substation",
+        "Devices, Wire": "SMES, SFCL, Cable, Transformer (Bi)",
+        "Summary": "All HTS power devices integrated in a substation. SMES 1MJ/0.5MVA; FCL 220kV/1.5 kA; Transformer 630kVA; 3 phase Cable 75m/1.5kA",
+        "Status": "Major HTS power devices installed in April 2012. Connected in transmission line and tested.",
+        "Partners": "IEE Chinese Academy of Science, Innopower, Jiangsu Zhongtian Technology, China XD Group, Facility: Gansu Province Baiyin City",
         "Budget, Term, other data": "",
-        "Region": "New Zealand",
-        "Devices, Wire": "Transformer with YBCO wire",
-        "Project": "Transformer"
+        "References": "http://jp.xinhuanet.com/2011-05/07/c_13862406.htm \nhttp://english.cas.cn/ST/HT/ht_progress/201203/t20120328_83126.shtml",
+        "Region": "China"
       },
       "geometry": {
         "coordinates": [
-          174.4753,
-          -41.164
+          103.8264,
+          36.0596
         ],
         "type": "Point"
       },
-      "id": "736017ae4799339dc90df448b5f0f829"
+      "id": "12facf17612b6f8d424ac17f4c12a9f1"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "12 kV/4.6 MVA, 2-year Operation and Upgrade",
-        "References": "European Conference on Applied Superconductivity, 2015",
-        "Partners": "RSE, a2a Reti Elettriche",
-        "Status": "The project is now offline and starting phase 2, where it will be upgraded to 9 kV/15.6 MVA and serve four feeders.",
-        "Budget, Term, other data": "2012-2014+",
-        "Region": "EU",
-        "Devices, Wire": "Current Limiter",
-        "Project": "RSE FCL"
-      },
-      "geometry": {
-        "coordinates": [
-          9.1859,
-          45.4654
-        ],
-        "type": "Point"
-      },
-      "id": "74c1cb0ddfbcada84c5e8e2fb8b4bb7a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "HTS Coil for 2GJ Class",
-        "References": "",
-        "Partners": "CEPCO, others",
-        "Status": "High tensile and Compact Coil developed",
-        "Budget, Term, other data": "",
-        "Region": "Japan",
-        "Devices, Wire": "SMES (Y)",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          139.839478,
-          35.652832
-        ],
-        "type": "Point"
-      },
-      "id": "756166239d07e0508db28a447c4f629f"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "66kV Large Ic Cable, 275kV High Voltage System",
-        "References": "",
-        "Partners": "SEI, Furukawa, Fujikura, ISTEC, others",
-        "Status": "Low loss and High Ic, or High Voltage Cable. HV cable tested in China; details: http://www.furukawa.co.jp/what/2012/kenkai_120518_2.htm",
-        "Budget, Term, other data": "",
-        "Region": "Japan",
-        "Devices, Wire": "Cable (Y)",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          139.839478,
-          35.652832
-        ],
-        "type": "Point"
-      },
-      "id": "7c637e87125ebf1fb1f328d862cac999"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Large Current Conductor, Flexible, High Strength, CORC Cable",
-        "References": "International Superconductivity Industry Summit, 2013",
-        "Partners": "MIT, Florida State University-NHFM lab, SuperPower, ACT LLC and others",
-        "Status": "Under trial manufacturing",
-        "Budget, Term, other data": "",
-        "Region": "USA",
-        "Devices, Wire": "Cable, Round Conductor",
-        "Project": "CORC Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          -84.3207,
-          30.4248
-        ],
-        "type": "Point"
-      },
-      "id": "7dde542844436df419eee9933457192d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Tested 25 meter prototype cable",
-        "References": "EPRI",
-        "Partners": "ORNL, AMSC",
-        "Status": "Completed testing at Oak Ridge National Laboratory",
-        "Budget, Term, other data": "",
-        "Region": "USA",
-        "Devices, Wire": "Cable",
-        "Project": "HYDRA (Phase 1)"
-      },
-      "geometry": {
-        "coordinates": [
-          -84.2623,
-          36.01588
-        ],
-        "type": "Point"
-      },
-      "id": "7e88b6cafa51c05a362ac3280a093832"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Soul?",
-        "Summary": "22.9 kV, 50 MVA, 500 m Cable I, 22.9 kV, 150 MVA 100 m Cable II, 22.9 kV, 630 A FCL I and 22.9kV, 3 kA FCL II",
-        "References": "International Superconductivity Industry Summit 2013",
-        "Partners": "KEPRI, LS Cable, others",
-        "Status": "Completed Dec. 2013.",
-        "Budget, Term, other data": "$5M/y, 2009-2013",
-        "Region": "Korea",
-        "Devices, Wire": "Large Power Applications",
-        "Project": "GENI"
-      },
-      "geometry": {
-        "coordinates": [
-          127.061023,
-          37.510324
-        ],
-        "type": "Point"
-      },
-      "id": "7f1e31dc9535a75dc252d6ed55659074"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Bi2223 wire, 3MW",
-        "References": "ISS2013. CSSJ 2013, NEDO HP",
-        "Partners": "KHI, SEI, others",
-        "Status": "3 MW Race Track Coil Test completed.",
-        "Budget, Term, other data": "2010-2012",
-        "Region": "Japan",
-        "Devices, Wire": "Ship Motor (Bi)",
-        "Project": "Ship Motor (NEDO)"
-      },
-      "geometry": {
-        "coordinates": [
-          139.703051,
-          35.530906
-        ],
-        "type": "Point"
-      },
-      "id": "87a3d2cbfdbddfecf057396669f06fb1"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Nexans delivered two 12kV, 400A FCLs to WPD. Uses AMSC Amperion wire. Part of WPDs FlexDGrid project.",
-        "References": "Superconductor week, May 15. 2016",
-        "Partners": "Western Power Distribution, AMSC, Nexans",
-        "Status": "they have been commissioned in Birmingham UK",
-        "Budget, Term, other data": "FlexDGrid is a $24M initiative begun in Dec 2012 through March 2017. Funded by the Uks Low Carbon Networks Fund.",
-        "Region": "EU",
-        "Devices, Wire": "FCL",
-        "Project": "Western Power Distribution"
-      },
-      "geometry": {
-        "coordinates": [
-          1.8904,
-          52.4862
-        ],
-        "type": "Point"
-      },
-      "id": "8d314e60b8d04a3a4e71e1109e763d33"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Long Length Wire",
-        "References": "International Superconductivity Industry Summit 2014",
-        "Partners": "SuperOx, SuperOx Japan LLC",
-        "Status": "500 m; 300-500 A",
-        "Budget, Term, other data": "",
-        "Region": "Russia",
-        "Devices, Wire": "YBCO Wire",
-        "Project": "SuperOx Wire"
-      },
-      "geometry": {
-        "coordinates": [
-          139.373176,
-          35.571462
-        ],
-        "type": "Point"
-      },
-      "id": "90730212912e29abfe16399113f61c72"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "5 MJ Flywheel with HTS magnetic bearing",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom",
-        "Status": "",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "Energy Storage",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "95af830f440ea09ac3046261468f4769"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Development of a single-pole HTS busbar for 20 kA DC and a length of 25m",
-        "References": "Mathias Noe, KIT",
-        "Partners": "KIT: superconductor material and connection technology\nILK: Cryoengineering and construction cryogenics\nVESC: development and manufacturing of the busbar connection with subsequent operation monitoring \nPtJ: incentives and control panel",
-        "Status": "Planning to test of the conductor rail according to the requirements, preferably in an industrial environment",
-        "Budget, Term, other data": "May 2015 to April 2018",
-        "Region": "EU",
-        "Devices, Wire": "HTS busbar",
-        "Project": "3S (Suprastromschiene)"
-      },
-      "geometry": {
-        "coordinates": [
-          8.4037,
-          49.0069
-        ],
-        "type": "Point"
-      },
-      "id": "96d1520d11ade90a2be88b6ca42c03a1"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "3.5/10/35 kV",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom",
-        "Status": "Model device in progress",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "FCL",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "9fd1674d8c5a8ba1d9704d547ff60455"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "10 MW class Windmill generator",
-        "References": "CSSJ2014 Fall",
-        "Partners": "AIST, Furukawa, Maekawa, Tokyo univ., others",
-        "Status": "Design study of YBCO coils using iron core, reliable refrigerator",
-        "Budget, Term, other data": "2013-2014",
-        "Region": "Japan",
-        "Devices, Wire": "Generator (Y)",
-        "Project": "Windmill Generator (NEDO)"
-      },
-      "geometry": {
-        "coordinates": [
-          140.076642,
-          36.083486
-        ],
-        "type": "Point"
-      },
-      "id": "a1159ad4bb431cdfe7bd82e13fe38931"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "DC 80 kV-0.5 km Cable (2014), AC 154 kV-1 km Cable (2015) in Real grid in Jeju",
-        "References": "International Superconductivity Industry Summit 2014; IEA-HTS-IA ExCo, Jeju Korea, 2014 Dec",
-        "Partners": "KEPCO, LS Cable, KERI, Universities",
-        "Status": "DC Cable completed testing in Dec 2014. Work is underway to develop 154kV AC cable.",
-        "Budget, Term, other data": "$70M, 2011-2016",
-        "Region": "Korea",
-        "Devices, Wire": "Cable (Y)",
-        "Project": "Jeju Cable"
-      },
-      "geometry": {
-        "coordinates": [
-          126.4983,
-          33.488999
-        ],
-        "type": "Point"
-      },
-      "id": "a3da4826fc7929ef6d970d9aa25b8043"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "1500 V, 10 kA class DC cable, Low loss, and Feasibility study",
-        "References": "CSSJ2014 Fall",
-        "Partners": "Railway Technical Research Institute, others",
-        "Status": "Cable test and Real Train test completed. Elongation of the cable.",
-        "Budget, Term, other data": "FY2009-2018",
-        "Region": "Japan",
-        "Devices, Wire": "Railway Feeder Cable",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          139.463191,
-          35.710335
-        ],
-        "type": "Point"
-      },
-      "id": "b1b94948ebf6fb53d5832647b7bed1cb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Superconducting FCL (115/14.4 kV)",
-        "References": "Superpower at ASC2014; http://www.cenhud.com/about_us/news/july17_14.html",
-        "Partners": "NYSERDA, Central Hudson Gas & Electric, Applied Materials, SuperPower, Three-C Electrical",
-        "Status": "Installed at a Central Hudson substation in New York.",
-        "Budget, Term, other data": "$2.5M, to June 2015",
-        "Region": "USA",
-        "Devices, Wire": "Fault Current Limiter with YBCO wire",
-        "Project": "Applied Materials SCFCL at Central Hudson"
-      },
-      "geometry": {
-        "coordinates": [
-          -73.921,
-          41.7004
-        ],
-        "type": "Point"
-      },
-      "id": "b349a71ec2884efdb5c4d7ed19af385c"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "YBCO Magnet technology for MRI, Accelerator, and Wire",
-        "References": "ISS2014",
-        "Partners": "iSTERA,Toshiba, Mitsubishi, Furukawa",
-        "Status": "Start in 2013. High Ic in field. Various YBCO coils, Design study for medical use.",
-        "Budget, Term, other data": "$9M/y, 2013-2015",
-        "Region": "Japan",
-        "Devices, Wire": "Magnet (Y)",
-        "Project": "Development of Fundamental Technologies for HTS Coils (METI)"
-      },
-      "geometry": {
-        "coordinates": [
-          139.671363,
-          35.50291
-        ],
-        "type": "Point"
-      },
-      "id": "ba5d70a336e993f40926c0df543a7d92"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "Bi2223 wire. Phase 1, 500m length cable. Phase 2, 1km.",
-        "References": "CSSJ (Cryogenic and Superconductivity Society of Japan) 2014 Fall",
-        "Partners": "SEI, Sakura Internet (Data Center), Chubu Univ.",
-        "Status": "Started in 2013. Phase 1 completed. Phase 2 going on.",
-        "Budget, Term, other data": "Phase1, 2013-2014: http://www.city.ishikari.hokkaido.jp/content/000038768.jpg",
-        "Region": "Japan",
-        "Devices, Wire": "DC-Cable (Bi)",
-        "Project": "Ishikari Cable (HTS DC Cable System ) (METI)"
-      },
-      "geometry": {
-        "coordinates": [
-          141.31552,
-          43.171384
-        ],
-        "type": "Point"
-      },
-      "id": "be0e35a34fbaf44241014686f4db8c5d"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "Long length YBCO",
-        "References": "International Superconductivity Industry Summit 2013",
-        "Partners": "Rosatom",
-        "Status": "Pilot plant purchased from Bruker. 1km in 2015 and PLD production will start.",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "YBCO Wire",
-        "Project": "Rosatom Applications"
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "c4b5339df0249d3ec91dcc589298e849"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "Erlangen, Siemens?",
-        "Summary": "10-20 MW machine, high efficiency, for off-shore windmill",
-        "References": "International Superconductivity Industry Summit, 2013",
-        "Partners": "Siemens, Suzlon, Gamesa, DTU, 27 Institutes",
-        "Status": "",
-        "Budget, Term, other data": "13.8M, 2012-2017",
-        "Region": "EU",
-        "Devices, Wire": "Wind Generator",
-        "Project": "INNWIND.EU"
-      },
-      "geometry": {
-        "coordinates": [
-          11.011961,
-          49.589674
-        ],
-        "type": "Point"
-      },
-      "id": "db94cf37377d5cda98a5ed1bcd2341bb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "1 MVA class",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom",
-        "Status": "10kVA class fabricated",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "Transformer",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          37.6173,
-          55.755826
-        ],
-        "type": "Point"
-      },
-      "id": "e071b1e357a32392a065cb3ac28ea8cc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "10 kV/817 A, one year operation",
-        "References": "https://www.sw-augsburg.de/ueber_uns/4551_9118.php (German)",
-        "Partners": "Siemens, Stadtwerke Augsburg",
-        "Status": "Energized 3/2016",
-        "Budget, Term, other data": "2014-2017 (to test functionality and reliability) + long term operation (for operational experience in economic terms)",
-        "Region": "EU",
+        "Project": "ASSIST",
         "Devices, Wire": "Current Limiter with YBCO wire",
-        "Project": "ASSIST"
+        "Summary": "10 kV/817 A, one year operation",
+        "Status": "Energized 3/2016",
+        "Partners": "Siemens, Stadtwerke Augsburg",
+        "Budget, Term, other data": "2014-2017 (to test functionality and reliability) + long term operation (for operational experience in economic terms)",
+        "References": "https://www.sw-augsburg.de/ueber_uns/4551_9118.php (German)",
+        "Region": "EU"
       },
       "geometry": {
         "coordinates": [
@@ -1032,86 +82,82 @@
         ],
         "type": "Point"
       },
-      "id": "e1cf2cb196b7437c353eb5b7574f5ca1"
+      "id": "197b1696a5ccbe25d52da15542ec5d13"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "for 20MW motor",
-        "References": "ISIS2013",
-        "Partners": "KHI, Sophia Univ., others",
-        "Status": "Motor design, Quench test, Rotor model fabrication",
-        "Budget, Term, other data": "FY2009-2013",
-        "Region": "Japan",
-        "Devices, Wire": "Ship Motor",
-        "Project": "S-Innovation (JST)"
+        "Project": "EcoSwing",
+        "Devices, Wire": "Wind Generator",
+        "Summary": "Design, develop and manufacture a full scale, multi-megawatt, direcy-drive superconducing wind generator. It will be installed on an existing modern wind turbine in Thoron, Denmark (3 MW Class, 14 rpm, 128m rotor)",
+        "Status": "Currently in the advanced design stage",
+        "Partners": "9 partners from 5 countries",
+        "Budget, Term, other data": "EUR 13,846,594; March 2015 - March 2019",
+        "References": "www.ecoswing.eu",
+        "Region": "EU"
       },
       "geometry": {
         "coordinates": [
-          139.703051,
-          35.530906
+          8.211499,
+          56.6998
         ],
         "type": "Point"
       },
-      "id": "e33d4bf8b1e58b6e41e94cffee36f35a"
+      "id": "1a14b522624bb4a2eda5caaa5225267b"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "1 MJ",
-        "References": "Superconductor Week, December 31, 2015",
-        "Partners": "Rosatom",
-        "Status": "Model Coil developed",
-        "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "SMES",
-        "Project": ""
+        "Project": "Wire",
+        "Devices, Wire": "Wire (Y)",
+        "Summary": "1 kA-1 km wire, 1800 A/cm composite conductor; 400 mH, 1500 A DC Reactor",
+        "Status": "Low cost YBCO with SUS substrate, 700-800A for ~1km",
+        "Partners": "SuNam, RIST, KERI, Seoul Univ.",
+        "Budget, Term, other data": "$13M, 2013-2016",
+        "References": "IEA-HTS-IA ExCo meeting in Jeju Korea 2014 Dec",
+        "Region": "Korea"
       },
       "geometry": {
         "coordinates": [
-          37.6173,
-          55.755826
+          127.061023,
+          37.510324
         ],
         "type": "Point"
       },
-      "id": "e3b03c0757036df39d7d7376169bd629"
+      "id": "265669bf1360ce86de57ad505267784c"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "HTS Power transmission technology related to the TEPCO Yokohama project",
-        "References": "",
-        "Partners": "",
-        "Status": "new project",
-        "Budget, Term, other data": "",
-        "Region": "Japan",
-        "Devices, Wire": "Cable",
-        "Project": "Power Cable"
+        "Project": "Ishikari Cable (HTS DC Cable System ) (METI)",
+        "Devices, Wire": "DC-Cable (Bi)",
+        "Summary": "Bi2223 wire. Phase 1, 500m length cable. Phase 2, 1km.",
+        "Status": "Started in 2013. Phase 1 completed. Phase 2 going on.",
+        "Partners": "SEI, Sakura Internet (Data Center), Chubu Univ.",
+        "Budget, Term, other data": "Phase1, 2013-2014: http://www.city.ishikari.hokkaido.jp/content/000038768.jpg",
+        "References": "CSSJ (Cryogenic and Superconductivity Society of Japan) 2014 Fall",
+        "Region": "Japan"
       },
       "geometry": {
         "coordinates": [
-          139.392,
-          35.5
+          141.31552,
+          43.171384
         ],
         "type": "Point"
       },
-      "id": "e62dbf8cc83d1213aa21bedc22f74228"
+      "id": "28159052a5ae9e4db6530cda5a911209"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "115 kV, 800 A",
-        "References": "www.appliedmaterials.com",
-        "Partners": "Applied Materials",
-        "Status": "contract signed for this commercially funded project",
-        "Budget, Term, other data": "",
-        "Region": "Thailand",
+        "Project": "Applied Materials",
         "Devices, Wire": "FCL",
-        "Project": "Applied Materials"
+        "Summary": "115 kV, 800 A",
+        "Status": "contract signed for this commercially funded project",
+        "Partners": "Applied Materials",
+        "Budget, Term, other data": "",
+        "References": "www.appliedmaterials.com",
+        "Region": "Thailand"
       },
       "geometry": {
         "coordinates": [
@@ -1120,20 +166,19 @@
         ],
         "type": "Point"
       },
-      "id": "e7476cee84b2e1545eb37f36faa113c2"
+      "id": "2afd4214bc64cfd68da6299119ad99ed"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "near Moscow?",
-        "Summary": "70 kA Current Lead for magnetic fusion systems, devices and other settings.",
-        "References": "Superconductor Week, December 31, 2015",
+        "Project": "Rosatom Applications",
+        "Devices, Wire": "YBCO Wire",
+        "Summary": "Long length YBCO",
+        "Status": "Pilot plant purchased from Bruker. 1km in 2015 and PLD production will start.",
         "Partners": "Rosatom",
-        "Status": "2 kA Model completed",
         "Budget, Term, other data": "2011-2015",
-        "Region": "Russia",
-        "Devices, Wire": "Current Lead",
-        "Project": ""
+        "References": "International Superconductivity Industry Summit 2013",
+        "Region": "Russia"
       },
       "geometry": {
         "coordinates": [
@@ -1142,20 +187,145 @@
         ],
         "type": "Point"
       },
-      "id": "e94b28aa6c18c765cfad42a82493b354"
+      "id": "35e3073a26a4d6d9a366aff6990e4def"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "~3.8 miles long resilient cable system in downtown Chicago",
-        "References": "http://ir.amsc.com/releases.cfm; http://ir.amsc.com/releasedetail.cfm?ReleaseID=953849",
-        "Partners": "ComEd, AMSC, Department of Homeland Security, Nexans",
-        "Status": "Recently slected Nexans to design, fabricate, and qualify a medium voltage HTS cable using Amperium wire. Cables tests to be performed at Nexans' facility in Hannover, Germany",
-        "Budget, Term, other data": "$5.2M authorized to date. Expected to end in 2017.",
-        "Region": "USA",
+        "Project": "GENI",
+        "Devices, Wire": "Large Power Applications",
+        "Summary": "22.9 kV, 50 MVA, 500 m Cable I, 22.9 kV, 150 MVA 100 m Cable II, 22.9 kV, 630 A FCL I and 22.9kV, 3 kA FCL II",
+        "Status": "Completed Dec. 2013.",
+        "Partners": "KEPRI, LS Cable, others",
+        "Budget, Term, other data": "$5M/y, 2009-2013",
+        "References": "International Superconductivity Industry Summit 2013",
+        "Region": "Korea"
+      },
+      "geometry": {
+        "coordinates": [
+          127.061023,
+          37.510324
+        ],
+        "type": "Point"
+      },
+      "id": "3c58f95db84b95fedd47de8a586dfc3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "3S (Suprastromschiene)",
+        "Devices, Wire": "HTS busbar",
+        "Summary": "Development of a single-pole HTS busbar for 20 kA DC and a length of 25m",
+        "Status": "Planning to test of the conductor rail according to the requirements, preferably in an industrial environment",
+        "Partners": "KIT: superconductor material and connection technology\nILK: Cryoengineering and construction cryogenics\nVESC: development and manufacturing of the busbar connection with subsequent operation monitoring \nPtJ: incentives and control panel",
+        "Budget, Term, other data": "May 2015 to April 2018",
+        "References": "Mathias Noe, KIT",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          8.4037,
+          49.0069
+        ],
+        "type": "Point"
+      },
+      "id": "3e0200fe5730b28a36e15c6e59eb2f0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Jeju FCL",
+        "Devices, Wire": "FCL (Y)",
+        "Summary": "154 kV/2 kA FCL (2015) in Real Grid in Jeju",
+        "Status": "testing 1 phase 154kV FCL",
+        "Partners": "KEPRI, KIMM, KIT, Hanyang Univ.",
+        "Budget, Term, other data": "$8M, 2011-2016",
+        "References": "",
+        "Region": "Korea"
+      },
+      "geometry": {
+        "coordinates": [
+          126.4983,
+          33.488999
+        ],
+        "type": "Point"
+      },
+      "id": "465f29e30818984066c01c83b1d2e22c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "CORC Cable",
+        "Devices, Wire": "Cable, Round Conductor",
+        "Summary": "Large Current Conductor, Flexible, High Strength, CORC Cable",
+        "Status": "Under trial manufacturing",
+        "Partners": "MIT, Florida State University-NHFM lab, SuperPower, ACT LLC and others",
+        "Budget, Term, other data": "",
+        "References": "International Superconductivity Industry Summit, 2013",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.3207,
+          30.4248
+        ],
+        "type": "Point"
+      },
+      "id": "55b6001c81377fb063717b19b5d47e28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Transformer",
+        "Devices, Wire": "Transformer with YBCO wire",
+        "Summary": "YBCO based Robel cable used first for a large application. 1 MVA, 1.1 kV (415 V).",
+        "Status": "Tested in factory and showed low heat loss. Economical evaluation for 40 MVA device was completed.",
+        "Partners": "Victoria University of Wellington, Inst.Electirical Eng., Wilson Transformer Company, Callaghan Innovation.",
+        "Budget, Term, other data": "",
+        "References": "ISTEC, Superconductivity Web21 August issue: http://www.istec.or.jp/web21/web21-E.html",
+        "Region": "New Zealand"
+      },
+      "geometry": {
+        "coordinates": [
+          174.4753,
+          -41.164
+        ],
+        "type": "Point"
+      },
+      "id": "5a9d8989c333c760bd1545fa82cd5702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Henan Province DC Cable",
+        "Devices, Wire": "DC cable (Bi)",
+        "Summary": "360m/10kA DC Cable in a real Al refining factory. Loss reduced by 60% (vs. normal system",
+        "Status": "Tested in 2012, June and in operation since September. 40km Bi wire used.",
+        "Partners": "IEE Chinese Academy of Science; Facility: Henan Province",
+        "Budget, Term, other data": "",
+        "References": "http://www.sei.co.jp/news/press/10/prs862_s.html",
+        "Region": "China"
+      },
+      "geometry": {
+        "coordinates": [
+          113.7536,
+          34.7655
+        ],
+        "type": "Point"
+      },
+      "id": "5c34d3e54fcdb8412bc394dac149f4a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Resilient Electric Grid (HYDRA Phase 3)",
         "Devices, Wire": "Cable with YBCO wire",
-        "Project": "Resilient Electric Grid (HYDRA Phase 3)"
+        "Summary": "~3.8 miles long resilient cable system in downtown Chicago",
+        "Status": "Recently slected Nexans to design, fabricate, and qualify a medium voltage HTS cable using Amperium wire. Cables tests to be performed at Nexans' facility in Hannover, Germany",
+        "Partners": "ComEd, AMSC, Department of Homeland Security, Nexans",
+        "Budget, Term, other data": "$5.2M authorized to date. Expected to end in 2017.",
+        "References": "http://ir.amsc.com/releases.cfm; http://ir.amsc.com/releasedetail.cfm?ReleaseID=953849",
+        "Region": "USA"
       },
       "geometry": {
         "coordinates": [
@@ -1164,64 +334,418 @@
         ],
         "type": "Point"
       },
-      "id": "eb80f8695926d54f4171a5d1f9e9dde0"
+      "id": "63a94ac89868c554ac40bc3da738495e"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "High Performance of Ic, Long length wire, Scribing Wire Technology, Mass Production",
-        "References": "ISS2013, NEDO-HP, ISTEC HP http://www.nedo.go.jp/activities/FK_00018.html",
-        "Partners": "Fujikura, SWCC, ISTEC and others",
-        "Status": "Ended in March, 2013. IcxL = 572Ax816.4m = 467kAm in 2013. High Ic in a field (min.) = 141A (short sample 77K, 3T), 100A (94m).",
-        "Budget, Term, other data": "2008-2013",
-        "Region": "Japan",
-        "Devices, Wire": "Wire (Y)",
-        "Project": "MPACC (NEDO)"
-      },
-      "geometry": {
-        "coordinates": [
-          139.839478,
-          35.652832
-        ],
-        "type": "Point"
-      },
-      "id": "f0b91fc51b554b45f34611280e8112e4"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "66kV/6.9kV-2MVA Class Transformer",
-        "References": "",
-        "Partners": "KEPCO, Fuji Electric Company, Taiyo-Nissan, ISTEC, others",
-        "Status": "World's first 2MVA class developed. Large capacity Turbo Brayton Refrigerator in sales http://www.tn-sanso.co.jp/jp/_documents/news_40609509.pdf",
-        "Budget, Term, other data": "",
-        "Region": "Japan",
-        "Devices, Wire": "Transformer (Y)",
-        "Project": ""
-      },
-      "geometry": {
-        "coordinates": [
-          139.839478,
-          35.652832
-        ],
-        "type": "Point"
-      },
-      "id": "f3f9304cf2fedf86abffbe9c9b478d37"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Notes": "",
-        "Summary": "3.4 km of 150 kV HTSC Cable as part of the Dutch grid",
-        "References": "http://www.tennet.eu/nl/news/article/tennet-to-undertake-demonstration-project-for-innovative-super-cable.html",
-        "Partners": "Delft University of Technology, University of Twente, the Institute for Science and Sustainable Development (IWO), HAN University of Applied Sciences and Imtech Marine will investigate topics including the control engineering aspects and the requirements that the cable must meet. Provider of cable not determined yet.",
-        "Status": "Preferred siting is in the municipality of Enschede",
-        "Budget, Term, other data": "Scheduled for completion in June 2019.",
-        "Region": "EU",
+        "Project": "HYDRA (Phase 1)",
         "Devices, Wire": "Cable",
-        "Project": "TenneT"
+        "Summary": "Tested 25 meter prototype cable",
+        "Status": "Completed testing at Oak Ridge National Laboratory",
+        "Partners": "ORNL, AMSC",
+        "Budget, Term, other data": "",
+        "References": "EPRI",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.2623,
+          36.01588
+        ],
+        "type": "Point"
+      },
+      "id": "692aa826e38f403d3465d36f81f7e12d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Columbus Cable",
+        "Devices, Wire": "Cable",
+        "Summary": "200 meters long; rated at 13.2 kV, 3 kA, and 69 MVA",
+        "Status": "Operated from 2006-2014 and served the equivalent of 36,000 homes",
+        "Partners": "Ultera, AEP, DOE, ORNL, AMSC, Praxair",
+        "Budget, Term, other data": "$11M, 2006-2014",
+        "References": "DOE; Southwire",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.0047,
+          39.99516
+        ],
+        "type": "Point"
+      },
+      "id": "6cbb0bd45e323d5a74b795976bd3b278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "LIPA Cable",
+        "Devices, Wire": "Cable with YBCO and BCSO wire",
+        "Summary": "600 meters; design rating of 138 kV, 2.4 kA and 574 MVA",
+        "Status": "1G cable operated for more than three years; 1 phase of YBCO cable was installed, but host utility terminated the project before it was energized.",
+        "Partners": "AMSC, LIPA (now PSEG), DOE, Nexans, Air Liquide",
+        "Budget, Term, other data": "$47M, 2006-2012",
+        "References": "DOE; AMSC; EPRI Strategic Intelligence Update, December 2015 http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.135,
+          40.7891
+        ],
+        "type": "Point"
+      },
+      "id": "76041a26a14cf8e46ac1cc5b5d36148f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Albany Cable",
+        "Devices, Wire": "Cable",
+        "Summary": "350 meters long; rated at 34.5 kV, 800 A and 48 MVA",
+        "Status": "Operated for more than 6700 hours using 1G wire and an additional 2400 hours using a 30m segment of YBCO",
+        "Partners": "SuperPower, national grid, NYSERDA, Sumitomo Electric",
+        "Budget, Term, other data": "$27M, 2006-2008",
+        "References": "DOE",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.7641,
+          42.64131
+        ],
+        "type": "Point"
+      },
+      "id": "813b5edffb9e19f163f40942e3408ca8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Development of Fundamental Technologies for HTS Coils (METI)",
+        "Devices, Wire": "Magnet (Y)",
+        "Summary": "YBCO Magnet technology for MRI, Accelerator, and Wire",
+        "Status": "Start in 2013. High Ic in field. Various YBCO coils, Design study for medical use.",
+        "Partners": "iSTERA,Toshiba, Mitsubishi, Furukawa",
+        "Budget, Term, other data": "$9M/y, 2013-2015",
+        "References": "ISS2014",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          139.671363,
+          35.50291
+        ],
+        "type": "Point"
+      },
+      "id": "876995f79ceb89e47cf098c5e04b84fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "S-Innovation (JST)",
+        "Devices, Wire": "Ship Motor",
+        "Summary": "for 20MW motor",
+        "Status": "Motor design, Quench test, Rotor model fabrication",
+        "Partners": "KHI, Sophia Univ., others",
+        "Budget, Term, other data": "FY2009-2013",
+        "References": "ISIS2013",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          139.703051,
+          35.530906
+        ],
+        "type": "Point"
+      },
+      "id": "9520875f3282524643be84b68d374c94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "SMES",
+        "Devices, Wire": "SMES (Y)",
+        "Summary": "",
+        "Status": "under development",
+        "Partners": "IEE Chinese Academy of Science, China XD Group",
+        "Budget, Term, other data": "2012-2015",
+        "References": "International Electrotechnical Commission/Technical Committee 90, Xi'an, China 2012",
+        "Region": "China"
+      },
+      "geometry": {
+        "coordinates": [
+          116.407395,
+          39.904211
+        ],
+        "type": "Point"
+      },
+      "id": "9655a63d64b5f9cb1c917cb773b5db15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "DAPAS",
+        "Devices, Wire": "Wire (Y), Power Applications",
+        "Summary": "1 km-500 A wire, 22.9 kV, 154 kV Cable, 154 kV Transformer, 22.9 kV FCL, 5 MVA Motor",
+        "Status": "Complete",
+        "Partners": "KERI, SuNam, KEPRI, LSCable, others",
+        "Budget, Term, other data": "$10M/y, 2001-2011",
+        "References": "International Superconductivity Industry Summit 2013",
+        "Region": "Korea"
+      },
+      "geometry": {
+        "coordinates": [
+          127.061023,
+          37.510324
+        ],
+        "type": "Point"
+      },
+      "id": "9f22ed042bea240936b499521dc12db3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "HYDRA (Phase 2)",
+        "Devices, Wire": "Cable with YBCO wire",
+        "Summary": "13.8 kV/4 kA-170 m, 3 phase Coaxial, into distribution line",
+        "Status": "Under construction at a ConEd substation. In grid demonstration date to be determined.",
+        "Partners": "AMSC, Southwire, ConEdison",
+        "Budget, Term, other data": "$39M",
+        "References": "EPRI Strategic Intelligence Update, December 2015 http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9967,
+          40.74838
+        ],
+        "type": "Point"
+      },
+      "id": "a4e2d152639a4004bd553ccc815550d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "RSE FCL",
+        "Devices, Wire": "Current Limiter",
+        "Summary": "12 kV/4.6 MVA, 2-year Operation and Upgrade",
+        "Status": "The project is now offline and starting phase 2, where it will be upgraded to 9 kV/15.6 MVA and serve four feeders.",
+        "Partners": "RSE, a2a Reti Elettriche",
+        "Budget, Term, other data": "2012-2014+",
+        "References": "European Conference on Applied Superconductivity, 2015",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          9.1859,
+          45.4654
+        ],
+        "type": "Point"
+      },
+      "id": "a7e40aa6df4a9dbbd40711bc26c5275b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "AmpaCity",
+        "Devices, Wire": "Cable using BiSCCO, Current Limiter",
+        "Summary": "10 kV/2.3 kA class FCL, 10 kV/2.3 kA-1 km, 3 phase cable",
+        "Status": "Successful operation since 2014",
+        "Partners": "Nexans, KIT, RWE, Leibniz University-Hannover",
+        "Budget, Term, other data": "2011-2016",
+        "References": "European Conference on Applied Superconductivity, 2015",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          7.0116,
+          51.4556
+        ],
+        "type": "Point"
+      },
+      "id": "a8fa4fe1cf43c5a3ff1fe71118bf41e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Jeju Cable",
+        "Devices, Wire": "Cable (Y)",
+        "Summary": "DC 80 kV-0.5 km Cable (2014), AC 154 kV-1 km Cable (2015) in Real grid in Jeju",
+        "Status": "DC Cable completed testing in Dec 2014. Work is underway to develop 154kV AC cable.",
+        "Partners": "KEPCO, LS Cable, KERI, Universities",
+        "Budget, Term, other data": "$70M, 2011-2016",
+        "References": "International Superconductivity Industry Summit 2014; IEA-HTS-IA ExCo, Jeju Korea, 2014 Dec",
+        "Region": "Korea"
+      },
+      "geometry": {
+        "coordinates": [
+          126.4983,
+          33.488999
+        ],
+        "type": "Point"
+      },
+      "id": "ac59554829de4811442ca4f3b6f84372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Applied Materials",
+        "Devices, Wire": "FCL",
+        "Summary": "220 kV",
+        "Status": "Commercial Terms agreed",
+        "Partners": "Applied Materials",
+        "Budget, Term, other data": "",
+        "References": "www.appliedmaterials.com",
+        "Region": "Ireland"
+      },
+      "geometry": {
+        "coordinates": [
+          8.2439,
+          53.4129
+        ],
+        "type": "Point"
+      },
+      "id": "ae0e85bc2eb37fb5b5805e925006ca79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Applied Materials SCFCL at Central Hudson",
+        "Devices, Wire": "Fault Current Limiter with YBCO wire",
+        "Summary": "Superconducting FCL (115/14.4 kV)",
+        "Status": "Installed at a Central Hudson substation in New York.",
+        "Partners": "NYSERDA, Central Hudson Gas & Electric, Applied Materials, SuperPower, Three-C Electrical",
+        "Budget, Term, other data": "$2.5M, to June 2015",
+        "References": "Superpower at ASC2014; http://www.cenhud.com/about_us/news/july17_14.html",
+        "Region": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.921,
+          41.7004
+        ],
+        "type": "Point"
+      },
+      "id": "befca8475b42f4c2d62cef9516048f0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "MPACC (NEDO)",
+        "Devices, Wire": "Wire (Y)",
+        "Summary": "High Performance of Ic, Long length wire, Scribing Wire Technology, Mass Production",
+        "Status": "Ended in March, 2013. IcxL = 572Ax816.4m = 467kAm in 2013. High Ic in a field (min.) = 141A (short sample 77K, 3T), 100A (94m).",
+        "Partners": "Fujikura, SWCC, ISTEC and others",
+        "Budget, Term, other data": "2008-2013",
+        "References": "ISS2013, NEDO-HP, ISTEC HP http://www.nedo.go.jp/activities/FK_00018.html",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          139.839478,
+          35.652832
+        ],
+        "type": "Point"
+      },
+      "id": "bf3bcf77737e92653ba0af7f153457a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Ship Motor (NEDO)",
+        "Devices, Wire": "Ship Motor (Bi)",
+        "Summary": "Bi2223 wire, 3MW",
+        "Status": "3 MW Race Track Coil Test completed.",
+        "Partners": "KHI, SEI, others",
+        "Budget, Term, other data": "2010-2012",
+        "References": "ISS2013. CSSJ 2013, NEDO HP",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          139.703051,
+          35.530906
+        ],
+        "type": "Point"
+      },
+      "id": "d3b263b39ca1cda4ce2f66cfa5bbc6c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Western Power Distribution",
+        "Devices, Wire": "FCL",
+        "Summary": "Nexans delivered two 12kV, 400A FCLs to WPD. Uses AMSC Amperion wire. Part of WPDs FlexDGrid project.",
+        "Status": "they have been commissioned in Birmingham UK",
+        "Partners": "Western Power Distribution, AMSC, Nexans",
+        "Budget, Term, other data": "FlexDGrid is a $24M initiative begun in Dec 2012 through March 2017. Funded by the Uks Low Carbon Networks Fund.",
+        "References": "Superconductor week, May 15. 2016",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          1.8904,
+          52.4862
+        ],
+        "type": "Point"
+      },
+      "id": "db0263f09a568cca6abda3da5acd6514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Power Cable",
+        "Devices, Wire": "Cable",
+        "Summary": "HTS Power transmission technology related to the TEPCO Yokohama project",
+        "Status": "new project",
+        "Partners": "",
+        "Budget, Term, other data": "",
+        "References": "",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          139.392,
+          35.5
+        ],
+        "type": "Point"
+      },
+      "id": "dc8a359159ff71b07457af08ce28ff6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "INNWIND.EU",
+        "Devices, Wire": "Wind Generator",
+        "Summary": "10-20 MW machine, high efficiency, for off-shore windmill",
+        "Status": "",
+        "Partners": "Siemens, Suzlon, Gamesa, DTU, 27 Institutes",
+        "Budget, Term, other data": "13.8M, 2012-2017",
+        "References": "International Superconductivity Industry Summit, 2013",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          11.011961,
+          49.589674
+        ],
+        "type": "Point"
+      },
+      "id": "dfc2bdb61f2f28f12a14bbc1597e69f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "TenneT",
+        "Devices, Wire": "Cable",
+        "Summary": "3.4 km of 150 kV HTSC Cable as part of the Dutch grid",
+        "Status": "Preferred siting is in the municipality of Enschede",
+        "Partners": "Delft University of Technology, University of Twente, the Institute for Science and Sustainable Development (IWO), HAN University of Applied Sciences and Imtech Marine will investigate topics including the control engineering aspects and the requirements that the cable must meet. Provider of cable not determined yet.",
+        "Budget, Term, other data": "Scheduled for completion in June 2019.",
+        "References": "http://www.tennet.eu/nl/news/article/tennet-to-undertake-demonstration-project-for-innovative-super-cable.html",
+        "Region": "EU"
       },
       "geometry": {
         "coordinates": [
@@ -1230,20 +754,124 @@
         ],
         "type": "Point"
       },
-      "id": "f55b3fd8ef6204883048319ba8c32fab"
+      "id": "dfd8d1f251a04c0a257a744d69651427"
     },
     {
       "type": "Feature",
       "properties": {
-        "Notes": "",
-        "Summary": "Verification tests and study on safety and reliability of HTS cable",
+        "Project": "St. Petersburg Cable",
+        "Devices, Wire": "Cable with BSCO Wire",
+        "Summary": "20 kV/1.4 kA (50 MVA) 2.5 km DC Cable between two substations using open loop pressurized liquid nitrogen system.",
+        "Status": "Testing conducted on two 30 m AC cables, two 430 m cables, three pairs of current leads and three joints.",
+        "Partners": "Federal Grid Company United Energy System",
+        "Budget, Term, other data": "Scheduled to be installed and energized in 2017.",
+        "References": "EPRI Strategic Intelligence Update, December 2015; http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
+        "Region": "Russia"
+      },
+      "geometry": {
+        "coordinates": [
+          30.3351,
+          59.9343
+        ],
+        "type": "Point"
+      },
+      "id": "e0d827c8ad881ec2ec32e88da08e5f52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Windmill Generator (NEDO)",
+        "Devices, Wire": "Generator (Y)",
+        "Summary": "10 MW class Windmill generator",
+        "Status": "Design study of YBCO coils using iron core, reliable refrigerator",
+        "Partners": "AIST, Furukawa, Maekawa, Tokyo univ., others",
+        "Budget, Term, other data": "2013-2014",
+        "References": "CSSJ2014 Fall",
+        "Region": "Japan"
+      },
+      "geometry": {
+        "coordinates": [
+          140.076642,
+          36.083486
+        ],
+        "type": "Point"
+      },
+      "id": "e61aaf0bccb984ffbaa3877ff8595e95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Shingal Project",
+        "Devices, Wire": "Cable (Y)",
+        "Summary": "22.9 kV, 50 MVA, 1 km Cable in real grid",
+        "Status": "Bidding",
+        "Partners": "KEPCO",
+        "Budget, Term, other data": "2016-2017",
+        "References": "KEPCO's Head Office",
+        "Region": "Korea"
+      },
+      "geometry": {
+        "coordinates": [
+          127.061023,
+          37.510324
+        ],
+        "type": "Point"
+      },
+      "id": "ed0726c24e91a00fa07abb74f8f5c77f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "XX",
+        "Devices, Wire": "",
+        "Summary": "",
+        "Status": "200 m-250 A (Bruker)",
+        "Partners": "",
+        "Budget, Term, other data": "",
         "References": "",
-        "Partners": "NEDO, TEPCO, SEI, Furukawa Electric, Fujikura, Mayekawa CO.",
-        "Status": "Testing for safety and reliability of HTS cable system. Development of high performance refrigerator. In-grid test of HTS cable.",
-        "Budget, Term, other data": "$10M for 3 years from July 2014 to March 2017",
-        "Region": "Japan",
+        "Region": "EU"
+      },
+      "geometry": {
+        "coordinates": [
+          2.173403,
+          41.385064
+        ],
+        "type": "Point"
+      },
+      "id": "f7119cb224f2ce30e4bec7994554367b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "SuperOx Wire",
+        "Devices, Wire": "YBCO Wire",
+        "Summary": "Long Length Wire",
+        "Status": "500 m; 300-500 A",
+        "Partners": "SuperOx, SuperOx Japan LLC",
+        "Budget, Term, other data": "",
+        "References": "International Superconductivity Industry Summit 2014",
+        "Region": "Russia"
+      },
+      "geometry": {
+        "coordinates": [
+          139.373176,
+          35.571462
+        ],
+        "type": "Point"
+      },
+      "id": "f949e87c5febe7a27820cb2f072a1a07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "Yokohama HTS Cable Project II (NEDO)",
         "Devices, Wire": "Cable (Bi, Y)",
-        "Project": "Yokohama HTS Cable Project II (NEDO)"
+        "Summary": "Verification tests and study on safety and reliability of HTS cable",
+        "Status": "Testing for safety and reliability of HTS cable system. Development of high performance refrigerator. In-grid test of HTS cable.",
+        "Partners": "NEDO, TEPCO, SEI, Furukawa Electric, Fujikura, Mayekawa CO.",
+        "Budget, Term, other data": "$10M for 3 years from July 2014 to March 2017",
+        "References": "",
+        "Region": "Japan"
       },
       "geometry": {
         "coordinates": [
@@ -1252,7 +880,28 @@
         ],
         "type": "Point"
       },
-      "id": "f9388c94e775da5b90adc1d32ed92ffd"
+      "id": "f9ea5c3eefef3f86fb45a5e05a9438a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project": "FCL",
+        "Devices, Wire": "FCL",
+        "Summary": "10kV/400A",
+        "Status": "Test in real grid",
+        "Partners": "Shanghai Univ.",
+        "Budget, Term, other data": "",
+        "References": "International Electrotechnical Commission/Technical Committee 90, Xi'an, China 2012",
+        "Region": "China"
+      },
+      "geometry": {
+        "coordinates": [
+          121.473701,
+          31.230416
+        ],
+        "type": "Point"
+      },
+      "id": "ffda0eb467545c29b244be714684aa3b"
     }
   ],
   "type": "FeatureCollection"
