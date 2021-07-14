@@ -1,15 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About-Us on ieahts.org</title>
+    <title>About Us on ieahts.org</title>
     <link>https://ieahts.org/about-us/</link>
-    <description>Recent content in About-Us on ieahts.org</description>
+    <description>Recent content in About Us on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 11:27:27 -0500</lastBuildDate>
-    
-	<atom:link href="https://ieahts.org/about-us/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 14 Jul 2021 11:45:58 -0500</lastBuildDate><atom:link href="https://ieahts.org/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Information</title>
+      <link>https://ieahts.org/about-us/contact-info/</link>
+      <pubDate>Wed, 14 Jul 2021 11:45:58 -0500</pubDate>
+      
+      <guid>https://ieahts.org/about-us/contact-info/</guid>
+      <description>table {width:98%;table-layout: fixed; padding: 0; margin: 0;border-collapse: collapse;}thead td {background-color: #ebebeb;padding:3rem 1rem;border:2px solid #1d1d1d; text-align: left;}th{background-color: #ebebeb;padding:3rem 1rem;border:2px solid #1d1d1d; text-align: left;}td[colspan=&#34;2&#34;] {background-color: antiquewhite;padding:2rem 1rem;}tr  td {padding:0 1rem;border:2px solid #1d1d1d;}.subTable {margin:0;padding:0;border-collapse: collapse;table-layout: auto;}.subTable td {border: 0;padding: 0.3rem 1rem;}.subTable td:first-child{width: 20%;border-right:2px solid #1d1d1d;}.subTd {padding: 0;}.subTd em {display: block;}CountryNominationName and Organization Executive CommitteeCanadaDelegateDr.</description>
+    </item>
     
     <item>
       <title>About Us</title>
@@ -26,7 +31,7 @@
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
       <guid>https://ieahts.org/about-us/exco-contact-information/</guid>
-      <description>Canada    Dr. Julian Cave
+      <description>CanadaDr. Julian Cave
 Chercheur
 Hydro Quebec, Institut de recherche
 Expertise-Chimie et materiaux
@@ -38,7 +43,7 @@ Canada J3X 1S1
 Phone: +1 450-652-8946
 Fax: +1 450-652-8334
 E-mail: cave.julian@ireq.ca
- &amp;nbsp;   Finland     Dr. Risto Mikkonen
+&amp;nbsp;FinlandDr. Risto Mikkonen
 Electrotechnical Department
 Tampere University of Technology
 P.O. Box 692
@@ -55,7 +60,7 @@ Fax: +358 3 365 2160</description>
       
       <guid>https://ieahts.org/about-us/strategic-direction/</guid>
       <description>The HTS TCP conducts outreach toward electric utilities, governments, the professional engineering community, and the RD&amp;amp;D community to communicate the potential benefits of HTS technology.&amp;nbsp; Examples of this outreach include:
- Developing position papers and strategic documents such as roadmaps and technical reports Providing expertise that can inform the evaluations and assessments performed under the TCP Interacting with other related TCPs to leverage synergies and opportunities Disseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sector Address and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industry  The HTS TCP has developed a number of publications.</description>
+Developing position papers and strategic documents such as roadmaps and technical reportsProviding expertise that can inform the evaluations and assessments performed under the TCPInteracting with other related TCPs to leverage synergies and opportunitiesDisseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sectorAddress and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industryThe HTS TCP has developed a number of publications.</description>
     </item>
     
   </channel>

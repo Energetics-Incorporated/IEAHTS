@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benefits on ieahts.org</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Benefits on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate>
-    
-	<atom:link href="https://ieahts.org/technologies/benefits/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate><atom:link href="https://ieahts.org/technologies/benefits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glossary</title>
       <link>https://ieahts.org/technologies/benefits/glossary/</link>
@@ -18,12 +14,12 @@
       
       <guid>https://ieahts.org/technologies/benefits/glossary/</guid>
       <description>1G
- First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
-   2G
- Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
-   A/cm
- Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
-   $/kAm</description>
+First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
+2G
+Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
+A/cm
+Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
+$/kAm</description>
     </item>
     
     <item>

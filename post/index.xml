@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on ieahts.org</title>
@@ -6,10 +6,15 @@
     <description>Recent content in Articles on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://ieahts.org/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ieahts.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaboration with the Wind Technology Collaborative Program</title>
+      <link>https://ieahts.org/post/collaboration-with-tcp-wind/</link>
+      <pubDate>Wed, 14 Jul 2021 14:44:50 -0400</pubDate>
+      
+      <guid>https://ieahts.org/post/collaboration-with-tcp-wind/</guid>
+      <description>The IEA HTS TCP held an Executive Committee meeting on 7 May 2021 and invited Stephen Barth from the Wind TCP to participate. The mission of the Wind TCP is to promote high impact wind energy research and communication through international collaboration. Stephen presented on the Wind TCP activities and engaged in conversation about the various activities from the HTS TCP. This is just another example of how the IEA TCPs collaborate and bring together technical experts to facilitate discussion on how the technology areas can develop synergies among their activities.</description>
+    </item>
     
     <item>
       <title>Siemens SCFL in Germany&#39;s Stadwerke Grid</title>
@@ -17,7 +22,7 @@
       <pubDate>Mon, 26 Feb 2018 14:39:05 -0500</pubDate>
       
       <guid>https://ieahts.org/post/siemens-scfl-in-germanys-stadwerke-grid/</guid>
-      <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&amp;rsquo;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
+      <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&#39;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
     </item>
     
     <item>
@@ -80,7 +85,7 @@
       <pubDate>Tue, 26 Jan 2016 14:39:05 -0500</pubDate>
       
       <guid>https://ieahts.org/post/resilient-electric-grid-project-in-the-united-states/</guid>
-      <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&amp;rsquo; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
+      <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&#39; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SuperConductivity on ieahts.org</title>
@@ -6,10 +6,24 @@
     <description>Recent content in SuperConductivity on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2020 11:27:27 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2021 14:44:50 -0400</lastBuildDate><atom:link href="https://ieahts.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaboration with the Wind Technology Collaborative Program</title>
+      <link>https://ieahts.org/post/collaboration-with-tcp-wind/</link>
+      <pubDate>Wed, 14 Jul 2021 14:44:50 -0400</pubDate>
+      
+      <guid>https://ieahts.org/post/collaboration-with-tcp-wind/</guid>
+      <description>The IEA HTS TCP held an Executive Committee meeting on 7 May 2021 and invited Stephen Barth from the Wind TCP to participate. The mission of the Wind TCP is to promote high impact wind energy research and communication through international collaboration. Stephen presented on the Wind TCP activities and engaged in conversation about the various activities from the HTS TCP. This is just another example of how the IEA TCPs collaborate and bring together technical experts to facilitate discussion on how the technology areas can develop synergies among their activities.</description>
+    </item>
     
-	<atom:link href="https://ieahts.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Contact Information</title>
+      <link>https://ieahts.org/about-us/contact-info/</link>
+      <pubDate>Wed, 14 Jul 2021 11:45:58 -0500</pubDate>
+      
+      <guid>https://ieahts.org/about-us/contact-info/</guid>
+      <description>table {width:98%;table-layout: fixed; padding: 0; margin: 0;border-collapse: collapse;}thead td {background-color: #ebebeb;padding:3rem 1rem;border:2px solid #1d1d1d; text-align: left;}th{background-color: #ebebeb;padding:3rem 1rem;border:2px solid #1d1d1d; text-align: left;}td[colspan=&#34;2&#34;] {background-color: antiquewhite;padding:2rem 1rem;}tr  td {padding:0 1rem;border:2px solid #1d1d1d;}.subTable {margin:0;padding:0;border-collapse: collapse;table-layout: auto;}.subTable td {border: 0;padding: 0.3rem 1rem;}.subTable td:first-child{width: 20%;border-right:2px solid #1d1d1d;}.subTd {padding: 0;}.subTd em {display: block;}CountryNominationName and Organization Executive CommitteeCanadaDelegateDr.</description>
+    </item>
     
     <item>
       <title>Project Map</title>
@@ -17,7 +31,7 @@
       <pubDate>Wed, 22 Jan 2020 11:27:27 -0500</pubDate>
       
       <guid>https://ieahts.org/map/</guid>
-      <description>   body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;} #map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}    mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;; var map = new mapboxgl.Map({ container: &#39;map&#39;, // container id style: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet location center: [-74.5, 40], // starting position [lng, lat] zoom: 9 // starting zoom });  </description>
+      <description>body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;}#map { position:absolute; top:0; bottom:0; width:100%; z-index: -1;}mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;;var map = new mapboxgl.Map({container: &#39;map&#39;, // container idstyle: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet locationcenter: [-74.5, 40], // starting position [lng, lat]zoom: 9 // starting zoom});</description>
     </item>
     
     <item>
@@ -26,7 +40,7 @@
       <pubDate>Mon, 26 Feb 2018 14:39:05 -0500</pubDate>
       
       <guid>https://ieahts.org/post/siemens-scfl-in-germanys-stadwerke-grid/</guid>
-      <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&amp;rsquo;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
+      <description>A superconducting fault current limiter with a rated current of 817 amperes will secure the connection between Stadtwerke Augsburg&#39;s grid and an industrial company. When in operation in early 2016, an energy load with a maximum feed-in power of 15 megawatts will be fed from the company’s grid into the Stadwerke’s grid. Without appropriate measures, this load would exceed the permissible short-circuit level. During the field test, a short-circuit limiting reactor, which will be used as a backup solution, will be bypassed by a superconducting fault current limiter.</description>
     </item>
     
     <item>
@@ -46,8 +60,8 @@
       <guid>https://ieahts.org/members/</guid>
       <description>For access to member documents please contact: Donald Mosteller
 Member Documents
- September 2017 ExCo in Geneva  B. Marchionini, Operating Agent (USA), Status and Updates L. Munuera, IEA, IEA Update Y. Yamada, Operating Agent (JP), Overview of Last ExCo Meeting Y. Yamada, Operating Agent (JP), HTS Activity in China Meeting Minutes  July 2017 ExCo in Kawasaki ExCo Open Session: HTS Workshop
- S. Watanabe, Welcome and Introduction L. Martini, RSE (IT), Present Status of Applied HTS in Italy B.</description>
+September 2017 ExCo in GenevaB. Marchionini, Operating Agent (USA), Status and UpdatesL. Munuera, IEA, IEA UpdateY. Yamada, Operating Agent (JP), Overview of Last ExCo MeetingY. Yamada, Operating Agent (JP), HTS Activity in ChinaMeeting Minutes July 2017 ExCo in KawasakiExCo Open Session: HTS Workshop
+S. Watanabe, Welcome and IntroductionL.</description>
     </item>
     
     <item>
@@ -56,7 +70,7 @@ Member Documents
       <pubDate>Thu, 22 Feb 2018 23:49:34 -0500</pubDate>
       
       <guid>https://ieahts.org/links/</guid>
-      <description>Conductor Manufacturers HTS conductor  American Superconductor Bruker Energy &amp;amp; Supercon Technologies 3-Cs Ltd 3G-HTS deutsche nanoschicht EVICO GmbH (offers NiW substrate) Fujikura Furukawa MetOx OXOLUTIA Shanghai Superconductor Technology Sumitomo Electric Industries SuperCon (LTS and Bi-2212 for MRI) Superconductor Technologies Inc. SuperOx SuperPower SuNAM Theva  MgB2 conductor  Columbus Superconductor Diboride Conductors HyperTech  Cryogenics  Air Liquide Aisen Seki Co. Ltd &amp;amp; Chubu Electric (cryocoolers, acoustic Stirling ) Chart Industries (Qdrive) CryoMech (cryo-coolers, GM) CryoZone (cryostats, cryogenic systems, gas fans &amp;amp; liquid pumps) Linde Mayekwa Mfg.</description>
+      <description>Conductor ManufacturersHTS conductorAMSCBruker Energy &amp;amp; Supercon TechnologiesEVICO GmbH (offers NiW substrate)FujikuraFurukawaMetOxOXOLUTIAShanghai Superconductor TechnologySumitomo Electric IndustriesSuperCon (LTS and Bi-2212 for MRI)Superconductor Technologies Inc.SuperOxSuperPowerSuNAMThevaMgB2 conductorColumbus SuperconductorHyperTechCryogenicsAir LiquideCryoMech (cryo-coolers, GM)CryoZone (cryostats, cryogenic systems, gas fans &amp;amp; liquid pumps)LindeMayekwa Mfg. Co., Ltd. (cryocoolers, slush N2)Nexans (cryostats)Scientific Magnetics (cryostat for solid LN2, see Rolls-Royce)Stirling Cryogenics &amp;amp; Refrigeration BV (cryo-coolers)Sumitomo Heavy Industries, Cryogenics GroupLaboratoriesApplied Superconductivity Center, National High Field Magnet Laboratory, Florida State UniversityBar-Ilan University Institute of SuperconductivityCenter for Advanced Power Systems, Florida State UniversityCentral Research Institute of Electric Power Industry (CRIEPI), JapanEcole Polytechnique du Montr&amp;eacute;alIFW-DresdenInstitut de Ci&amp;egrave;ncia de Materials de BarcelonaInstitut f&amp;uuml;r Physikalische Hochtechnologie e.</description>
     </item>
     
     <item>
@@ -75,7 +89,7 @@ On 17 November 2015, a Special Session at the International Symposium on Superco
       <pubDate>Thu, 22 Feb 2018 23:43:26 -0500</pubDate>
       
       <guid>https://ieahts.org/collaboration-with-other-iea-tcps/</guid>
-      <description>The HTS TCP collaborates with several other TCPs such as the International Smart Grid Action Network.&amp;nbsp; Annex 5, the Smart Grid International Research Facility Network (SIRFN) is one group in particular that the HTS TCP connects with on a regular basis. SIRFN gives participating countries the ability to evaluate pre-competitive technologies and systems approaches in a wide range of smart grid implementation use cases and geographies using common testing procedures. The HTS TCP is also active in developing products for the Program of Work for Annex 6, Power T&amp;amp;D Systems.</description>
+      <description>The HTS TCP collaborates with several other TCPs such as the International Smart Grid Action Network.&amp;nbsp; Annex 5, the Smart Grid International Research Facility Network (SIRFN) is one group in particular that the HTS TCP connects with on a regular basis. SIRFN gives participating countries the ability to evaluate pre-competitive technologies and systems approaches in a wide range of smart grid implementation use cases and geographies using common testing procedures.</description>
     </item>
     
     <item>
@@ -84,11 +98,12 @@ On 17 November 2015, a Special Session at the International Symposium on Superco
       <pubDate>Thu, 22 Feb 2018 23:23:45 -0500</pubDate>
       
       <guid>https://ieahts.org/publications/</guid>
-      <description>Energy Efficiency, Resilient Electric Systems, and Transportation Applications Using High-Temperature Superconductivity
+      <description>Annual Report 2019: IEA IEA Technology Collaboration Program on High Temperature Superconductivity
+Energy Efficiency, Resilient Electric Systems, and Transportation Applications Using High-Temperature Superconductivity
 Annual Report 2018: IEA Technology Collaboration Program on High Temperature Superconductivity
 Annual Report 2017: IEA Technology Collaboration Program on High Temperature Superconductivity
 &#34;Annual Report 2016: IEA Technology Collaboration Program on High Temperature Superconductivity,&#34; completed for the International Energy Agency HTS TCP (June 2017)
-&#34;IEA End Use Working Party Summary Document&#34;,&amp;nbsp;completed for the International Energy Agency&#39;s, End Use Working Party regarding policy messages and recommendations and achievements (February 2016)</description>
+&#34;IEA End Use Working Party Summary Document&#34;</description>
     </item>
     
     <item>
@@ -97,7 +112,7 @@ Annual Report 2017: IEA Technology Collaboration Program on High Temperature Sup
       <pubDate>Thu, 22 Feb 2018 23:18:53 -0500</pubDate>
       
       <guid>https://ieahts.org/technologies/power-sector-applications/</guid>
-      <description>Cables There is more than 20 years of operating hour experience with cable projects worldwide. Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV. Nearly ten cable demonstration projects are under development; these include projects in the distribution voltage (10 kV&amp;mdash;66 kV) and transmission voltage (66 kV&amp;mdash;275 kV) range.</description>
+      <description>CablesThere is more than 20 years of operating hour experience with cable projects worldwide.Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV.</description>
     </item>
     
     <item>
@@ -107,12 +122,12 @@ Annual Report 2017: IEA Technology Collaboration Program on High Temperature Sup
       
       <guid>https://ieahts.org/technologies/benefits/glossary/</guid>
       <description>1G
- First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
-   2G
- Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
-   A/cm
- Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
-   $/kAm</description>
+First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
+2G
+Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
+A/cm
+Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
+$/kAm</description>
     </item>
     
     <item>
@@ -139,8 +154,8 @@ Annual Report 2017: IEA Technology Collaboration Program on High Temperature Sup
       <pubDate>Thu, 22 Feb 2018 21:42:51 -0500</pubDate>
       
       <guid>https://ieahts.org/projects/</guid>
-      <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
- </description>
+      <description>Around the world, projects are demonstrating the technical feasibility of equipment incorporating HTS. The text below highlights several project examples that have made recent progress.
+</description>
     </item>
     
     <item>
@@ -167,7 +182,7 @@ Annual Report 2017: IEA Technology Collaboration Program on High Temperature Sup
       <pubDate>Thu, 22 Feb 2018 10:45:58 -0500</pubDate>
       
       <guid>https://ieahts.org/about-us/exco-contact-information/</guid>
-      <description>Canada    Dr. Julian Cave
+      <description>CanadaDr. Julian Cave
 Chercheur
 Hydro Quebec, Institut de recherche
 Expertise-Chimie et materiaux
@@ -179,7 +194,7 @@ Canada J3X 1S1
 Phone: +1 450-652-8946
 Fax: +1 450-652-8334
 E-mail: cave.julian@ireq.ca
- &amp;nbsp;   Finland     Dr. Risto Mikkonen
+&amp;nbsp;FinlandDr. Risto Mikkonen
 Electrotechnical Department
 Tampere University of Technology
 P.O. Box 692
@@ -196,7 +211,7 @@ Fax: +358 3 365 2160</description>
       
       <guid>https://ieahts.org/about-us/strategic-direction/</guid>
       <description>The HTS TCP conducts outreach toward electric utilities, governments, the professional engineering community, and the RD&amp;amp;D community to communicate the potential benefits of HTS technology.&amp;nbsp; Examples of this outreach include:
- Developing position papers and strategic documents such as roadmaps and technical reports Providing expertise that can inform the evaluations and assessments performed under the TCP Interacting with other related TCPs to leverage synergies and opportunities Disseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sector Address and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industry  The HTS TCP has developed a number of publications.</description>
+Developing position papers and strategic documents such as roadmaps and technical reportsProviding expertise that can inform the evaluations and assessments performed under the TCPInteracting with other related TCPs to leverage synergies and opportunitiesDisseminating our work at international forums and workshops and educate students, young engineers, and scientists about HTS applications in the power sectorAddress and clarify perceived risks and hurdles to introduce a disruptive technology into the conservative electric power industryThe HTS TCP has developed a number of publications.</description>
     </item>
     
     <item>
@@ -259,16 +274,7 @@ Fax: +358 3 365 2160</description>
       <pubDate>Tue, 26 Jan 2016 14:39:05 -0500</pubDate>
       
       <guid>https://ieahts.org/post/resilient-electric-grid-project-in-the-united-states/</guid>
-      <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&amp;rsquo; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ieahts.org/projectsmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ieahts.org/projectsmap/</guid>
-      <description>IEAHTS Projects Map body { margin:0; padding:0;font-family: &#39;Roboto&#39;, sans-serif; font-size: 100%;}#map { position:absolute; top:0; bottom:0; width:100%;}.marker {background-image: url(&#39;/images/map-marker-icon2.png&#39;);background-size: cover;width: 50px;height: 50px;border-radius: 50%;cursor: pointer;}.mapboxgl-popup-content {font-size:13px;line-height:1;}.projectName h3 {margin-bottom:0;}mapboxgl.accessToken = &#39;pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw&#39;;var map = new mapboxgl.Map ({container: &#39;map&#39;, // container idstyle: &#39;mapbox://styles/mapbox/streets-v11&#39;, // stylesheet locationcenter:[10, 40.0], // starting position [lng, lat]zoom: 1 // starting zoom});map.</description>
+      <description>AMSC selected Nexans to design, fabricate and qualify, a medium voltage, HTS cable for AMSC as part of the company&amp;rsquo;s Resilient Electric Grid project in Chicago, Illinois. Utilizing AMSC&amp;rsquo;s Amperium® HTS wire, Nexans will design and fabricate the HTS power cable, including the power cable terminations and a cable splice, for qualification and performance evaluation as part of AMSC&amp;rsquo;s REG program with The Department of Homeland Security. The planned HTS power cable tests are required by electric utilities and will be performed at Nexans&#39; test facility in Hannover, Germany, which is specially equipped to perform tests on superconducting systems for power grids.</description>
     </item>
     
   </channel>

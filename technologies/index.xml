@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on ieahts.org</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Technologies on ieahts.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate>
-    
-	<atom:link href="https://ieahts.org/technologies/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 22 Feb 2018 22:42:24 -0500</lastBuildDate><atom:link href="https://ieahts.org/technologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fundamental Technologies</title>
       <link>https://ieahts.org/technologies/fundamental-technologies/</link>
@@ -26,7 +22,7 @@
       <pubDate>Thu, 22 Feb 2018 23:18:53 -0500</pubDate>
       
       <guid>https://ieahts.org/technologies/power-sector-applications/</guid>
-      <description>Cables There is more than 20 years of operating hour experience with cable projects worldwide. Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV. Nearly ten cable demonstration projects are under development; these include projects in the distribution voltage (10 kV&amp;mdash;66 kV) and transmission voltage (66 kV&amp;mdash;275 kV) range.</description>
+      <description>CablesThere is more than 20 years of operating hour experience with cable projects worldwide.Among all HTS applications, including non-power devices, cables have the most operational experience. When combining the operating experience of all the cables in the world, there is more than 20 years of operating hours. HTS cable projects have been energized in large scale grid demonstrations around the world ranging from approximately 10 kV&amp;mdash;275 kV.</description>
     </item>
     
   </channel>
