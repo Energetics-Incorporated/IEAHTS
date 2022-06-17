@@ -18,7 +18,7 @@
     height: 50px;
     border-radius: 50%;
     cursor: pointer;}
-  .mapboxgl-popup-content {font-size:13px;line-height:1.25;}
+  .mapboxgl-popup-content {font-size:13px;line-height:1;}
   .projectName h3 {margin-bottom:0;}
 </style>
 
@@ -28,10 +28,10 @@
 	mapboxgl.accessToken = 'pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw';
     
     var map = new mapboxgl.Map ({
-        container: 'map', // container id
-        style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
-        center:[10, 40.0], // starting position [lng, lat]
-        zoom: 1 // starting zoom
+        container: 'map', 
+        style: 'mapbox://styles/mapbox/streets-v11', 
+        center:[10, 40.0], 
+        zoom: 1 
     });
 
     
@@ -42,10 +42,10 @@
         map.addSource("locations", {
         type: "geojson",    
         data: "../map/features.geojson",
-        //'data': geojson
-        //cluster: true,
-        //clusterMaxZoom: 8, // Max zoom to cluster points on
-        //clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+        
+        
+        
+        
         });
 
         map.addLayer ({
@@ -64,27 +64,11 @@
 
         map.on('click', 'Project', function(e) {
             var coordinates = e.features[0].geometry.coordinates.slice();
-            var description = '<div class="projectName"><h3>Project Name: ' + 
-            e.features[0].properties.Project + 
-            '</h3><p><strong>Devices/Wire:</strong>  ' +
-            e.features[0].properties["Devices, Wire"] + 
-            '</p><p><strong>Summary:</strong>  ' +
-            e.features[0].properties.Summary + 
-            '</p><p><strong>Status:</strong>  ' +
-            e.features[0].properties.Status + 
-            '</p><p><strong>Partners:</strong>  ' +
-            e.features[0].properties.Partners + 
-            '</p><p><strong>Budget, Term, other data:</strong>  ' +
-            e.features[0].properties["Budget, Term, other data"] + 
-            '</p><p><strong>References:</strong>  ' +
-            e.features[0].properties.References + 
-            '</p><p><strong>Region:</strong>  ' +
-            e.features[0].properties.Region + 
-            '</p></div>';
+            var description = '<div class="projectName"><h3>Project Name:</h3><p>' + e.features[0].properties.Project + '</p></div>';
             
-            // Ensure that if the map is zoomed out such that multiple
-            // copies of the feature are visible, the popup appears
-            // over the copy being pointed to.
+            
+            
+            
             while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
             }
@@ -92,22 +76,18 @@
             new mapboxgl.Popup()
             .setLngLat(coordinates)
             .setHTML(description)
-            .setMaxWidth("600px")
             .addTo(map);
-            map.flyTo({center:coordinates, zoom: 2});
         });
 
-        // Change the cursor to a pointer when the mouse is over the places layer.
+        
         map.on('mouseenter', 'Project', function() {
             map.getCanvas().style.cursor = 'pointer';
         });
         
-        // Change it back to a pointer when it leaves.
+        
             map.on('mouseleave', 'Project', function() {
         map.getCanvas().style.cursor = '';
         });
-
-        map.addControl(new mapboxgl.FullscreenControl());
     });
 
     
