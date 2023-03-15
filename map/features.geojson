@@ -10,7 +10,8 @@
         "Partners": "NEDO, TEPCO, SEI, Mayekawa Co.",
         "Budget, Term, other data": "http://www.nedo.go.jp/activities/FK_00018.html $21.6M for 7 years from July 2007 to March 2014",
         "References": "TEPCO 2014",
-        "Region": "Japan"
+        "Region": "Japan",
+        "Project Status": "Inactive"
       },
       "geometry": {
         "coordinates": [
@@ -31,7 +32,8 @@
         "Partners": "Railway Technical Research Institute, Furukawa, Kubotech, others",
         "Budget, Term, other data": "$9M/Total, 2011-2015",
         "References": "http://www.nedo.go.jp/activities/ZZJP2_100007.html",
-        "Region": "Japan"
+        "Region": "Japan",
+        "Project Status": "Inactive"
       },
       "geometry": {
         "coordinates": [
@@ -388,7 +390,8 @@
         "Partners": "AMSC, LIPA (now PSEG), DOE, Nexans, Air Liquide",
         "Budget, Term, other data": "$47M, 2006-2012",
         "References": "DOE; AMSC; EPRI Strategic Intelligence Update, December 2015 http://my.epri.com/portal/server.pt?Product_id=000000003002007192",
-        "Region": "USA"
+        "Region": "USA",
+        "Project Status": "Inactive"
       },
       "geometry": {
         "coordinates": [

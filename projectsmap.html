@@ -4,8 +4,12 @@
 <meta charset=utf-8 />
 <title>IEAHTS Projects Map</title>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src="https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js"></script>
-<link href="https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.css" rel="stylesheet" />
+<!-- <script src="https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.css" rel="stylesheet" /> -->
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css' rel='stylesheet' />
+
 
 
 <style>    
@@ -27,7 +31,7 @@
 <script>
 	mapboxgl.accessToken = 'pk.eyJ1IjoiYmJ1dGgiLCJhIjoiY2o1c2l6eGtiMTczczMycHE3MWYxZXBzcCJ9.aOdUGFakB1ipKxS8tY9IQw';
     
-    var map = new mapboxgl.Map ({
+    const map = new mapboxgl.Map ({
         container: 'map', // container id
         style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
         center:[10, 40.0], // starting position [lng, lat]
@@ -48,22 +52,44 @@
         //clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
         });
 
+        // map.addLayer ({
+        //     "id": "Project",
+        //     "source": "locations",
+        //     "type": "circle",            
+        //     "paint": {
+        //         "circle-color": "#6EEB83",                
+        //         "circle-radius":10,
+        //         "circle-stroke-width":1,
+        //         "circle-stroke-color":"#000000"
+        //     },
+        //     "filter" :["==","$type", "Point"]
+            
+        // });
         map.addLayer ({
             "id": "Project",
             "source": "locations",
             "type": "circle",            
             "paint": {
-                "circle-color": "#6EEB83",                
+                // "circle-color": "#ff0000",
+                "circle-color":[
+                    "match",
+                    ["get", "Project Status"],
+                    "Inactive",
+                    "#FF0000",
+                    "#6EEB83"
+                ],
                 "circle-radius":10,
                 "circle-stroke-width":1,
                 "circle-stroke-color":"#000000"
-            },
-            "filter" :["==","$type", "Point"]
+            }
+            ,
+            //"filter" :["==","$type", "Point"]
             
         });
 
         map.on('click', 'Project', function(e) {
             var coordinates = e.features[0].geometry.coordinates.slice();
+            var projectstatus = e.features[0].properties['Project Status'];
             var description = '<div class="projectName"><h3>Project Name: ' + 
             e.features[0].properties.Project + 
             '</h3><p><strong>Devices/Wire:</strong>  ' +
@@ -80,7 +106,8 @@
             e.features[0].properties.References + 
             '</p><p><strong>Region:</strong>  ' +
             e.features[0].properties.Region + 
-            '</p></div>';
+            '</p><p><strong>Project Status:</strong>  ' +
+            projectstatus + '</p></div>';
             
             // Ensure that if the map is zoomed out such that multiple
             // copies of the feature are visible, the popup appears
@@ -94,7 +121,7 @@
             .setHTML(description)
             .setMaxWidth("600px")
             .addTo(map);
-            map.flyTo({center:coordinates, zoom: 2});
+            //map.flyTo({center:coordinates, zoom: 2});
         });
 
         // Change the cursor to a pointer when the mouse is over the places layer.
