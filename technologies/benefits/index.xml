@@ -14,12 +14,13 @@
       
       <guid>https://ieahts.org/technologies/benefits/glossary/</guid>
       <description>1G
-First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
-2G
-Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
-A/cm
-Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
-$/kAm</description>
+First generation HTS wires, formed by extrusion of BSCCO with a metal sheath.
+2G
+Second generation HTS wires, formed by depositing YBCO onto a metal substrate.
+A/cm
+Unit of critical current, Ic, for superconducting wire per 1 cm width. Used especially for YBCO because it is a tape form and the Ic depends on its width.
+$/kAm
+Unit of price in $ of superconducting wire per 1000 A of critical current, Ic, and per 1 meter length of the wire.</description>
     </item>
     
     <item>
