@@ -2,6 +2,11 @@
 |  Design Elements                                        |
 +========================================================*/
 
+.tcp-iea-banner {
+    width: 100%;
+    margin-bottom: 1.3rem !important;
+    background: #0044FF;
+}
 
 main.pb7 {max-width: 1280px;margin:auto;}
 
@@ -88,13 +93,54 @@ a#dnn_dnnLogo_hypLogo {
 	display:block
 }
 
+.slick-prev, .slick-next {
+    top: 50%;
+    background: #fff;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+}
+
 .sliderWrap .slick-next {
     right: 10px;
 }
 .sliderWrap .slick-prev {
     left: 10px;
 }
-.slick-prev, .slick-next{z-index: 1;}
+
+.slick-prev:hover, .slick-next:hover {
+    background: #fff;
+}
+
+.sliderWrap .slick-prev:before {
+    position: absolute;
+    left: -4px;
+    top: -2px;
+    font-size: 45px;
+    color: black;
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
+.sliderWrap .slick-next:before {
+    position: absolute;
+    left: -4px;
+    top: -2px;
+    font-size: 45px;
+    color: black;
+    opacity: 1;
+    transition: all 0.5s ease;
+}
+
+.sliderWrap .slick-prev:hover::before {
+    color: #2BA6CB;
+}
+
+.sliderWrap .slick-next:hover::before {
+    color: #2BA6CB;
+}
+
 .pageWidth {
 	position: relative;
 	display: block;
