@@ -35,7 +35,7 @@
 <div id="state-legend" class="legend">
 
 <div><span style="background-color: #6EEB83"></span>Active Projects</div>
-<div><span style="background-color: #ff0000"></span>Inactive Projects</div>
+<div><span style="background-color: #6b6b6b"></span>Completed Demonstrations</div>
 
 </div>
  
@@ -86,12 +86,12 @@
             "source": "locations",
             "type": "circle",            
             "paint": {
-                // "circle-color": "#ff0000",
+                // "circle-color": "#6b6b6b",
                 "circle-color":[
                     "match",
                     ["get", "Project Status"],
                     "Inactive",
-                    "#FF0000",
+                    "#6b6b6b",
                     "#6EEB83"
                 ],
                 "circle-radius":10,
