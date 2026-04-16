@@ -25,6 +25,10 @@
     License: none (public domain)
     */
 
+.margin-top-bottom-40 {
+    margin: 40px 0 40px 0;
+}
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -3722,4 +3726,3 @@ html.mobileView {
 .mobileView #iPopUp .ui-dialog-content {
     max-height: none !important; 
 }
-
