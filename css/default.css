@@ -25,6 +25,10 @@
     License: none (public domain)
     */
 
+.hero {
+    margin: 20px 0 40px 0;
+}
+
 .margin-top-bottom-40 {
     margin: 40px 0 40px 0;
 }
