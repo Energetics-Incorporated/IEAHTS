@@ -1,5 +1,5 @@
 async function includeHTML() {
-      const response = await fetch('https://ieahts.org/whatsnew.html');
+      const response = await fetch('https://ieahts.org/whatsnew.html', { cache: 'no-store' });
       if (response.ok) {
           const content = await response.text();
           const targetElement = document.getElementById('whatsnew');
