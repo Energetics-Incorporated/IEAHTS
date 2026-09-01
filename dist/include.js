@@ -12,6 +12,6 @@ async function includeHTML() {
           console.error('Failed to load HTML file:', response.status, response.statusText);
       }
   }
-
+  
   // Call includeHTML after the DOM is fully loaded
   document.addEventListener('DOMContentLoaded', includeHTML);
