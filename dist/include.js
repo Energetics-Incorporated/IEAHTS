@@ -13,4 +13,10 @@ async function includeHTML() {
     }
 }
 
-document.addEventListener('DOMContentLoaded', includeHTML);
+if (document.readyState === 'loading') {
+    // DOMContentLoaded hasn't fired yet — safe to wait for it
+    document.addEventListener('DOMContentLoaded', includeHTML);
+} else {
+    // DOMContentLoaded already fired (or never will again) — run immediately
+    includeHTML();
+}
